@@ -1,0 +1,4 @@
+﻿# Never put .bin in git
+*.bin
+*.apk
+.DS_Store
