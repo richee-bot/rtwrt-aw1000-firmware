@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "05e9b152-292",
+      "ts": 1784325035837,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU — · SSD —",
+      "device": "nubia NX729J",
+      "app": "1.6.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"hostname\":\"RTWRT\",\"model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"release\":\"RTWRT OFFICIAL 24.10.1\",\"stamp\":\"2026-07-18 05:50:32\",\"uptime\":\"0d 05:49:58\",\"load\":\"0.01 0.02 0.00\",\"cpu\":1,\"temp\":\"60 C\",\"mem_pct\":39,\"flash_pct\":37,\"clients\":13,\"wifi_count\":10,\"conn\":259,\"tcp\":251,\"udp\":46,\"wan_rx\":2739655064,\"wan_tx\":664480438,\"wan_rx_rate\":78186,\"wan_tx_rate\":25322,\"usage_rx_total\":688446178,\"usage_tx_total\":2575232488,\"usage_total\":3263678666,\"ifaces\":[{\"name\":\"miireg\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan1\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan2\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan3\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan4\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wan\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wwan0\",\"rx"
+      }
+    },
+    {
       "id": "588e6b04-9f4",
       "ts": 1784325027309,
       "type": "register",
@@ -12,5 +26,5 @@
       "read": false
     }
   ],
-  "updated": 1784325028463
+  "updated": 1784325036905
 }
