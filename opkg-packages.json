@@ -7,7 +7,12 @@
     {
       "name": "CPU-Limit",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CPU-Limit\/upload.ipk"
+    },
+    {
+      "name": "NextDNS",
+      "note": "",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-NextDNS\/upload.ipk"
     }
   ],
-  "updated": 1784383487059
+  "updated": 1784385933512
 }
