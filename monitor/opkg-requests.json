@@ -1,6 +1,16 @@
 {
   "requests": [
     {
+      "id": "0976d468-090",
+      "ts": 1784382437394,
+      "user": "richeetayu",
+      "package": "Adguard-Home",
+      "note": "",
+      "status": "pending",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-Adguard-Home\/upload.ipk",
+      "updated": 1784382437394
+    },
+    {
       "id": "47fcb0b1-9dc",
       "ts": 1784381285571,
       "user": "richeetayu",
@@ -11,5 +21,5 @@
       "updated": 1784381421316
     }
   ],
-  "updated": 1784381421316
+  "updated": 1784382439291
 }
