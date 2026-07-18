@@ -9,12 +9,13 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.6.0",
         "fw_ver": "v3"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "add10529-b54",
@@ -345,5 +346,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784364115619
+  "updated": 1784364173129
 }
