@@ -9,12 +9,13 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.6.0",
         "fw_ver": "v3"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "cb993dbb-79b",
@@ -362,5 +363,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784364182479
+  "updated": 1784364395614
 }
