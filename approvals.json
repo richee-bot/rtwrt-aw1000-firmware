@@ -1,1 +1,16 @@
-{"app:1.9.0":["richeetayu"],"app:1.10.0":["richeetayu"],"app:1.10.1":["richeetayu"],"app:1.10.2":["richeetayu"],"app:1.10.3":["richeetayu"],"fw:v4":[]}
+{
+  "app:1.9.0": [
+    "richeetayu"
+  ],
+  "app:1.10.0": [],
+  "app:1.10.1": [
+    "richeetayu"
+  ],
+  "app:1.10.2": [
+    "richeetayu"
+  ],
+  "app:1.10.3": [
+    "richeetayu"
+  ],
+  "fw:v4": []
+}
