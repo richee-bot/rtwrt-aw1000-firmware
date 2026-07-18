@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "60abfcb5-dbd",
+      "ts": 1784373042514,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 1.8.0 (app-1.8)",
+      "device": "nubia NX729J",
+      "app": "1.8.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.8.0",
+        "app_tag": "app-1.8",
+        "fw_ver": "v4",
+        "wants": "app 1.8.0"
+      }
+    },
+    {
       "id": "f1152732-ca1",
       "ts": 1784372953928,
       "type": "health",
@@ -408,5 +426,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784372955175
+  "updated": 1784373043735
 }
