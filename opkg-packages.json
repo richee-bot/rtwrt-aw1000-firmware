@@ -1,0 +1,11 @@
+{
+  "packages": [
+    { "name": "nano", "note": "Text editor" },
+    { "name": "htop", "note": "Process monitor" },
+    { "name": "luci-app-sqm", "note": "SQM / QoS" },
+    { "name": "tcpdump", "note": "Packet capture" },
+    { "name": "curl", "note": "HTTP client" },
+    { "name": "bash", "note": "Shell" }
+  ],
+  "updated": 0
+}
