@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "1291f16b-3d9",
+      "ts": 1784385737069,
+      "type": "register",
+      "user": "tayu",
+      "summary": "New user registered",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "c20b2d06-aa8",
       "ts": 1784384042043,
       "type": "download_app",
@@ -745,5 +756,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784384055776
+  "updated": 1784385737890
 }
