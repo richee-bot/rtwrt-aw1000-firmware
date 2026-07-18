@@ -6,9 +6,9 @@
       "user": "tayu",
       "package": "ZeroTier",
       "note": "",
-      "status": "pending",
+      "status": "accepted",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-ZeroTier\/upload.ipk",
-      "updated": 1784387947776
+      "updated": 1784388140816
     },
     {
       "id": "4dd0d45d-ad3",
@@ -61,5 +61,5 @@
       "updated": 1784382466577
     }
   ],
-  "updated": 1784387948403
+  "updated": 1784388140816
 }
