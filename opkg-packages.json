@@ -27,7 +27,12 @@
       "name": "ZeroTier",
       "note": "",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-ZeroTier\/upload.ipk"
+    },
+    {
+      "name": "SmartDNS",
+      "note": "",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-SmartDNS\/upload.ipk"
     }
   ],
-  "updated": 1784386066906
+  "updated": 1784386150776
 }
