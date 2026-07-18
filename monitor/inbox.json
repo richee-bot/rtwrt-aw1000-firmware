@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "id": "32ff7448f0b7",
+      "ts": 1784371853424,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 1.7.0 (app-1.7) · from /rtwrt/app",
+      "device": "web-portal",
+      "app": "1.7.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.7.0",
+        "app_tag": "app-1.7",
+        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.7/RTWRT-richeetayu-v1.7-release.apk",
+        "fw_ver": "v3",
+        "source": "/rtwrt/app/",
+        "wants": "app 1.7.0"
+      }
+    },
+    {
       "id": "b78f2c61-62f",
       "ts": 1784364181011,
       "type": "download_fw",
@@ -39,7 +59,7 @@
       "ts": 1784364106528,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -53,7 +73,7 @@
       "ts": 1784364093221,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -67,7 +87,7 @@
       "ts": 1784363957948,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -98,7 +118,7 @@
       "ts": 1784362977964,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -180,7 +200,7 @@
       "ts": 1784362828371,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -194,7 +214,7 @@
       "ts": 1784362739813,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -225,7 +245,7 @@
       "ts": 1784362321690,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 53Â°C Â· SSD 50Â°C",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -341,7 +361,7 @@
       "ts": 1784325035837,
       "type": "health",
       "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU — · SSD —",
+      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU â Â· SSD â",
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
@@ -363,5 +383,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784364395614
+  "updated": 1784371854622
 }
