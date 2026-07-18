@@ -12,7 +12,12 @@
       "name": "NextDNS",
       "note": "",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-NextDNS\/upload.ipk"
+    },
+    {
+      "name": "OpenVPN",
+      "note": "",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-OpenVPN\/upload.ipk"
     }
   ],
-  "updated": 1784385933512
+  "updated": 1784385970125
 }
