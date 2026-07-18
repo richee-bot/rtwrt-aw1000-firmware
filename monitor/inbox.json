@@ -9,14 +9,15 @@
       "device": "nubia NX729J",
       "app": "1.10.3",
       "host": "rtwrt.tail4af42b.ts.net",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.10.4",
         "app_tag": "app-1.10.4",
         "fw_ver": "v4",
         "wants": "app 1.10.4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "43da6b3f-b26",
@@ -678,5 +679,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784383727679
+  "updated": 1784383774061
 }
