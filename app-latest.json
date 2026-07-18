@@ -1,8 +1,7 @@
 {
-  "version": "1.7.0",
-  "tag": "app-1.7",
-  "apk_name": "RTWRT-richeetayu-v1.7-release.apk",
-  "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.7/RTWRT-richeetayu-v1.7-release.apk",
-  "notes": "User app 1.7 — notice + approval + update info",
-  "updated": 1784363898500
+  "version": "1.8.0",
+  "tag": "app-1.8",
+  "apk_name": "RTWRT-richeetayu-v1.8-release.apk",
+  "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.8/RTWRT-richeetayu-v1.8-release.apk",
+  "notes": "First login Saved Login, opkg, risk dialogs, notifications"
 }
