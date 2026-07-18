@@ -1,6 +1,22 @@
 {
   "events": [
     {
+      "id": "fe409a65-af6",
+      "ts": 1784357597357,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Request download: app",
+      "device": "nubia NX729J",
+      "app": "1.6.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.6.0",
+        "fw_ver": "v3"
+      }
+    },
+    {
       "id": "1ef60926-429",
       "ts": 1784325846482,
       "type": "download_app",
@@ -106,5 +122,5 @@
       "read": false
     }
   ],
-  "updated": 1784325847767
+  "updated": 1784357598399
 }
