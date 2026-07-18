@@ -17,7 +17,12 @@
       "name": "OpenVPN",
       "note": "",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-OpenVPN\/upload.ipk"
+    },
+    {
+      "name": "CloudFlare",
+      "note": "",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CloudFlare\/upload.ipk"
     }
   ],
-  "updated": 1784385970125
+  "updated": 1784386025638
 }
