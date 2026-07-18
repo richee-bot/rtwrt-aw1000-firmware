@@ -1,11 +1,22 @@
 {
   "events": [
     {
+      "id": "c1359321-cdc",
+      "ts": 1784372947375,
+      "type": "register",
+      "user": "richeetayu",
+      "summary": "New user registered",
+      "device": "nubia NX729J",
+      "app": "1.8.0",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "32ff7448f0b7",
       "ts": 1784371853424,
       "type": "download_app",
       "user": "richeetayu",
-      "summary": "Wants APP 1.7.0 (app-1.7) · from /rtwrt/app",
+      "summary": "Wants APP 1.7.0 (app-1.7) · from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.7.0",
       "host": "192.168.1.1",
@@ -14,9 +25,9 @@
         "kind": "app",
         "app_ver": "1.7.0",
         "app_tag": "app-1.7",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.7/RTWRT-richeetayu-v1.7-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.7\/RTWRT-richeetayu-v1.7-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.7.0"
       }
     },
@@ -383,5 +394,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784371854622
+  "updated": 1784372948199
 }
