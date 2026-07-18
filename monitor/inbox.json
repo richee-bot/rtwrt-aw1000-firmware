@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "74e6b3a5-03d",
+      "ts": 1784383675002,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 1.10.4 (app-1.10.4)",
+      "device": "nubia NX729J",
+      "app": "1.10.3",
+      "host": "rtwrt.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.10.4",
+        "app_tag": "app-1.10.4",
+        "fw_ver": "v4",
+        "wants": "app 1.10.4"
+      }
+    },
+    {
       "id": "dbf21e7f-0b8",
       "ts": 1784382608032,
       "type": "health",
@@ -669,5 +687,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784382609253
+  "updated": 1784383675762
 }
