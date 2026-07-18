@@ -1,34 +1,4 @@
 {
-  "packages": [
-    {
-      "name": "nano",
-      "note": "Text editor"
-    },
-    {
-      "name": "htop",
-      "note": "Process monitor"
-    },
-    {
-      "name": "luci-app-sqm",
-      "note": "SQM \/ QoS"
-    },
-    {
-      "name": "tcpdump",
-      "note": "Packet capture"
-    },
-    {
-      "name": "curl",
-      "note": "HTTP client"
-    },
-    {
-      "name": "bash",
-      "note": "Shell"
-    },
-    {
-      "name": "Adguard-Home",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-Adguard-Home\/upload.ipk"
-    }
-  ],
-  "updated": 1784381890917
+  "packages": [],
+  "updated": 0
 }
