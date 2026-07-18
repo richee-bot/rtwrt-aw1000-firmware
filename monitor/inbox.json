@@ -9,7 +9,7 @@
       "device": "web-portal",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.8.0",
@@ -18,7 +18,8 @@
         "fw_ver": "v3",
         "source": "\/rtwrt\/app\/",
         "wants": "app 1.8.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "60abfcb5-dbd",
@@ -29,14 +30,15 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.8.0",
         "app_tag": "app-1.8",
         "fw_ver": "v4",
         "wants": "app 1.8.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "f1152732-ca1",
@@ -73,7 +75,7 @@
       "device": "web-portal",
       "app": "1.7.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.7.0",
@@ -82,7 +84,8 @@
         "fw_ver": "v3",
         "source": "\/rtwrt\/app\/",
         "wants": "app 1.7.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "b78f2c61-62f",
@@ -447,5 +450,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784373459180
+  "updated": 1784373471367
 }
