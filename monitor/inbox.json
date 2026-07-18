@@ -1,6 +1,22 @@
 {
   "events": [
     {
+      "id": "c8b7e967-74a",
+      "ts": 1784362927458,
+      "type": "download_fw",
+      "user": "richeetayu",
+      "summary": "Request download: fw",
+      "device": "nubia NX729J",
+      "app": "1.6.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.6.0",
+        "fw_ver": "v3"
+      }
+    },
+    {
       "id": "4e951607-03b",
       "ts": 1784362873531,
       "type": "download_fw",
@@ -205,5 +221,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784362909171
+  "updated": 1784362928933
 }
