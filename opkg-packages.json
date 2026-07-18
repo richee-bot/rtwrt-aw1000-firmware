@@ -4,7 +4,12 @@
       "name": "Adguard-Home",
       "note": "",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-Adguard-Home\/upload.ipk"
+    },
+    {
+      "name": "CPU-Limit",
+      "note": "",
+      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CPU-Limit\/upload.ipk"
     }
   ],
-  "updated": 1784382263552
+  "updated": 1784383469315
 }
