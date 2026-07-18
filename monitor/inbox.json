@@ -9,14 +9,15 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.8.0",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "d0d26215-6d5",
@@ -27,14 +28,15 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.8.0",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "a340a7da-002",
@@ -521,5 +523,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784373873708
+  "updated": 1784373903298
 }
