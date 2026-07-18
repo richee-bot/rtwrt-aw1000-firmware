@@ -1,6 +1,22 @@
 {
   "events": [
     {
+      "id": "4e951607-03b",
+      "ts": 1784362873531,
+      "type": "download_fw",
+      "user": "richeetayu",
+      "summary": "Request download: fw",
+      "device": "nubia NX729J",
+      "app": "1.6.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.6.0",
+        "fw_ver": "v3"
+      }
+    },
+    {
       "id": "0e72f33c-431",
       "ts": 1784362828371,
       "type": "health",
@@ -187,5 +203,5 @@
       "read": false
     }
   ],
-  "updated": 1784362829433
+  "updated": 1784362874669
 }
