@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "b2c8a1b0-287",
+      "ts": 1784380796269,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 1.10.0 (app-1.10)",
+      "device": "nubia NX729J",
+      "app": "1.9.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.10.0",
+        "app_tag": "app-1.10",
+        "fw_ver": "v4",
+        "wants": "app 1.10.0"
+      }
+    },
+    {
       "id": "05cbcf29-be9",
       "ts": 1784380786024,
       "type": "download_app",
@@ -621,5 +639,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784380786850
+  "updated": 1784380797507
 }
