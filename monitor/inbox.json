@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "0e72f33c-431",
+      "ts": 1784362828371,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD 50°C",
+      "device": "nubia NX729J",
+      "app": "1.6.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.12\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "274ae929-d1d",
       "ts": 1784362739813,
       "type": "health",
@@ -173,5 +187,5 @@
       "read": false
     }
   ],
-  "updated": 1784362741034
+  "updated": 1784362829433
 }
