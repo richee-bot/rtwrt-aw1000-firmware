@@ -4,10 +4,7 @@
   "fw:v3": [],
   "app:1.8.0": [],
   "fw:v4": [],
-  "app:1.9.0": [
-    "richeetayu"
-  ],
-  "app:1.10.0": [
-    "richeetayu"
-  ]
+  "app:1.9.0": ["richeetayu"],
+  "app:1.10.0": ["richeetayu"],
+  "app:1.10.1": ["richeetayu"]
 }
