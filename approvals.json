@@ -1,9 +1,9 @@
 {
   "app:1.5.0": [],
   "app:1.6.0": [
-    "richeetayu"
+    "*"
   ],
   "fw:v3": [
-    "richeetayu"
+    "*"
   ]
 }
