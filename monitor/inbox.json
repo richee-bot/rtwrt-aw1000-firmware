@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "id": "74e6b3a5-03d",
-      "ts": 1784383675002,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Wants APP 1.10.4 (app-1.10.4)",
-      "device": "nubia NX729J",
-      "app": "1.10.3",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": false,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "fw_ver": "v4",
-        "wants": "app 1.10.4"
-      }
-    },
-    {
-      "id": "dbf21e7f-0b8",
-      "ts": 1784382608032,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: ONLINE · rtwrt.tail4af42b.ts.net · CPU 53°C · SSD 49°C",
-      "device": "nubia NX729J",
-      "app": "1.10.3",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
-    },
-    {
-      "id": "233be6a9-a83",
-      "ts": 1784381152727,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 54°C · SSD 49°C",
-      "device": "nubia NX729J",
-      "app": "1.10.0",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.12\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
-    },
-    {
       "id": "b2c8a1b0-287",
       "ts": 1784380796269,
       "type": "download_app",
@@ -112,7 +66,7 @@
       "device": "nubia NX729J",
       "app": "1.9.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.10\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -126,7 +80,7 @@
       "device": "nubia NX729J",
       "app": "1.9.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.11\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -159,7 +113,7 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.10\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -211,7 +165,7 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.04\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -286,7 +240,7 @@
       "device": "nubia NX729J",
       "app": "1.8.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -367,7 +321,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.11\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -381,7 +335,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.14\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -395,7 +349,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -426,7 +380,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -508,7 +462,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.12\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -522,7 +476,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.02\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -553,7 +507,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.11\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -669,7 +623,7 @@
       "device": "nubia NX729J",
       "app": "1.6.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"hostname\":\"RTWRT\",\"model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"release\":\"RTWRT OFFICIAL 24.10.1\",\"stamp\":\"2026-07-18 05:50:32\",\"uptime\":\"0d 05:49:58\",\"load\":\"0.01 0.02 0.00\",\"cpu\":1,\"temp\":\"60 C\",\"mem_pct\":39,\"flash_pct\":37,\"clients\":13,\"wifi_count\":10,\"conn\":259,\"tcp\":251,\"udp\":46,\"wan_rx\":2739655064,\"wan_tx\":664480438,\"wan_rx_rate\":78186,\"wan_tx_rate\":25322,\"usage_rx_total\":688446178,\"usage_tx_total\":2575232488,\"usage_total\":3263678666,\"ifaces\":[{\"name\":\"miireg\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan1\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan2\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan3\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan4\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wan\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wwan0\",\"rx"
       }
@@ -687,5 +641,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784383675762
+  "updated": 1784380808767
 }
