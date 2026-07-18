@@ -6,9 +6,9 @@
       "user": "richeetayu",
       "package": "CPU-Limit",
       "note": "",
-      "status": "pending",
+      "status": "accepted",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CPU-Limit\/upload.ipk",
-      "updated": 1784384501997
+      "updated": 1784384524419
     },
     {
       "id": "7c4d387b-86e",
@@ -41,5 +41,5 @@
       "updated": 1784382466577
     }
   ],
-  "updated": 1784384503152
+  "updated": 1784384524419
 }
