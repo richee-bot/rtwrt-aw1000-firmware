@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "94bfbe96-507",
+      "ts": 1784504748301,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: ONLINE · rtwrt.tail4af42b.ts.net · CPU — · SSD —",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "rtwrt.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "212d71cb232f",
       "ts": 1784456843693,
       "type": "download_app",
@@ -874,5 +888,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784504552199
+  "updated": 1784504749681
 }
