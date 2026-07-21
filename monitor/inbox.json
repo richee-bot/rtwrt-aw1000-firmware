@@ -5,20 +5,21 @@
       "ts": 1784518661831,
       "type": "download_app",
       "user": "root",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) · from /rtwrt/app",
+      "summary": "Wants APP 1.10.4 (app-1.10.4) · from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.10.4",
         "app_tag": "app-1.10.4",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.4/RTWRT-richeetayu-v1.10.4-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.10.4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "6d7fac86-233",
@@ -53,7 +54,7 @@
       "ts": 1784456843693,
       "type": "download_app",
       "user": "aronz777",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) Â· from /rtwrt/app",
+      "summary": "Wants APP 1.10.4 (app-1.10.4) Â· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.10.4",
       "host": "192.168.1.1",
@@ -62,9 +63,9 @@
         "kind": "app",
         "app_ver": "1.10.4",
         "app_tag": "app-1.10.4",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.4/RTWRT-richeetayu-v1.10.4-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.10.4"
       },
       "status": "approved"
@@ -114,7 +115,7 @@
       "ts": 1784386373668,
       "type": "download_app",
       "user": "tayu",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) ÃÂ· from /rtwrt/app",
+      "summary": "Wants APP 1.10.4 (app-1.10.4) ÃÂ· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.10.4",
       "host": "192.168.1.1",
@@ -123,9 +124,9 @@
         "kind": "app",
         "app_ver": "1.10.4",
         "app_tag": "app-1.10.4",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.4/RTWRT-richeetayu-v1.10.4-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.10.4"
       },
       "status": "approved"
@@ -135,7 +136,7 @@
       "ts": 1784385758077,
       "type": "download_app",
       "user": "tayu",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) ÃÂÃÂ· from /rtwrt/app",
+      "summary": "Wants APP 1.10.4 (app-1.10.4) ÃÂÃÂ· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.10.4",
       "host": "192.168.1.1",
@@ -144,9 +145,9 @@
         "kind": "app",
         "app_ver": "1.10.4",
         "app_tag": "app-1.10.4",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.4/RTWRT-richeetayu-v1.10.4-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.10.4"
       },
       "status": "approved"
@@ -456,7 +457,7 @@
       "ts": 1784373554452,
       "type": "download_app",
       "user": "richeetayu",
-      "summary": "Wants APP 1.8.0 (app-1.8) ÃÂÃÂÃÂÃÂ· from /rtwrt/app",
+      "summary": "Wants APP 1.8.0 (app-1.8) ÃÂÃÂÃÂÃÂ· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.8.0",
       "host": "192.168.1.1",
@@ -465,9 +466,9 @@
         "kind": "app",
         "app_ver": "1.8.0",
         "app_tag": "app-1.8",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.8/RTWRT-richeetayu-v1.8-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.8\/RTWRT-richeetayu-v1.8-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.8.0"
       },
       "status": "approved"
@@ -477,7 +478,7 @@
       "ts": 1784373433364,
       "type": "download_app",
       "user": "richeetayu",
-      "summary": "Wants APP 1.8.0 (app-1.8) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· from /rtwrt/app",
+      "summary": "Wants APP 1.8.0 (app-1.8) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.8.0",
       "host": "192.168.1.1",
@@ -486,9 +487,9 @@
         "kind": "app",
         "app_ver": "1.8.0",
         "app_tag": "app-1.8",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.8/RTWRT-richeetayu-v1.8-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.8\/RTWRT-richeetayu-v1.8-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.8.0"
       },
       "status": "approved"
@@ -543,7 +544,7 @@
       "ts": 1784371853424,
       "type": "download_app",
       "user": "richeetayu",
-      "summary": "Wants APP 1.7.0 (app-1.7) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· from /rtwrt/app",
+      "summary": "Wants APP 1.7.0 (app-1.7) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.7.0",
       "host": "192.168.1.1",
@@ -552,9 +553,9 @@
         "kind": "app",
         "app_ver": "1.7.0",
         "app_tag": "app-1.7",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.7/RTWRT-richeetayu-v1.7-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.7\/RTWRT-richeetayu-v1.7-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.7.0"
       },
       "status": "approved"
@@ -922,5 +923,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784518663102
+  "updated": 1784601156815
 }
