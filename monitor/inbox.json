@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "850ff433-0c9",
+      "ts": 1784601242307,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "rtwrt.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "a87bb863dbe1",
       "ts": 1784518661831,
       "type": "download_app",
@@ -923,5 +937,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1784601156815
+  "updated": 1784601243684
 }
