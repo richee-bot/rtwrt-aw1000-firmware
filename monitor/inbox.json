@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "4ec1e262-e15",
+      "ts": 1785247729346,
+      "type": "register",
+      "user": "root",
+      "summary": "New user registered",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "8c08d58f-3ee",
       "ts": 1785247420346,
       "type": "health",
@@ -991,5 +1002,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785247421969
+  "updated": 1785247730254
 }
