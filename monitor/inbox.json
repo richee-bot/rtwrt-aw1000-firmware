@@ -23,7 +23,8 @@
       "device": "HONOR BVL-N49",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "8c08d58f-3ee",
@@ -1016,5 +1017,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785247738190
+  "updated": 1785247807597
 }
