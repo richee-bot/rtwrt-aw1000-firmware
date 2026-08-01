@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "ccf407cc-cd2",
+      "ts": 1785574432014,
+      "type": "health",
+      "user": "root",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":984,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"\",\"tx_dbm_2g\":\"\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "4a080d71-8e4",
       "ts": 1785446352482,
       "type": "health",
@@ -1087,5 +1101,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785446353503
+  "updated": 1785574432760
 }
