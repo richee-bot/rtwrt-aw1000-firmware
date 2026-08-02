@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "aa1e7f08-765",
+      "ts": 1785644735338,
+      "type": "health",
+      "user": "root",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU — · SSD —",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "4e56d015-c07",
       "ts": 1785596222967,
       "type": "health",
@@ -1143,5 +1157,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785596223952
+  "updated": 1785644736917
 }
