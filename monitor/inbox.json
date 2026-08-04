@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "d95f0ddc-881",
+      "ts": 1785848217055,
+      "type": "health",
+      "user": "root",
+      "summary": "health: OFFLINE · Set Tailscale host in Settings",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "1ccd81e6-746",
       "ts": 1785654655442,
       "type": "health",
@@ -1185,5 +1199,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785654656288
+  "updated": 1785848218187
 }
