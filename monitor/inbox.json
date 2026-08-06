@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "62b8c835-d7c",
+      "ts": 1786029348343,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "d95f0ddc-881",
       "ts": 1785848217055,
       "type": "health",
@@ -1199,5 +1213,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1785848218187
+  "updated": 1786029349260
 }
