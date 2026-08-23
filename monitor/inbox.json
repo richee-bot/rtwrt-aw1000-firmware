@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "d35a5ea5-cca",
+      "ts": 1787463081749,
+      "type": "register",
+      "user": "deepstroyer",
+      "summary": "New user registered",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "8a1ac724-8ca",
       "ts": 1787285642677,
       "type": "health",
@@ -1227,5 +1238,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1787285643916
+  "updated": 1787463082328
 }
