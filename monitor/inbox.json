@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "3d3cb2dc-96f",
+      "ts": 1787829218618,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 52°C · SSD —",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":52,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "93c0489f-b70",
       "ts": 1787654836488,
       "type": "health",
@@ -1308,5 +1322,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1787654838102
+  "updated": 1787829219642
 }
