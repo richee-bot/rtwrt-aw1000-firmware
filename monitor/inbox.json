@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "58ce6c24-685",
+      "ts": 1787905340983,
+      "type": "register",
+      "user": "dgjbc",
+      "summary": "New user registered",
+      "device": "Xiaomi Redmi Note 7",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "3d3cb2dc-96f",
       "ts": 1787829218618,
       "type": "health",
@@ -1322,5 +1333,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1787829219642
+  "updated": 1787905342387
 }
