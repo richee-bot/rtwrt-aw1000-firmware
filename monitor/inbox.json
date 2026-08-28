@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "62f36370-04a",
+      "ts": 1787905349413,
+      "type": "health",
+      "user": "dgjbc",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 55°C · SSD —",
+      "device": "Xiaomi Redmi Note 7",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":55,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "58ce6c24-685",
       "ts": 1787905340983,
       "type": "register",
@@ -1333,5 +1347,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1787905342387
+  "updated": 1787905350563
 }
