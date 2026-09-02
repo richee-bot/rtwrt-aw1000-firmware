@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "8a03e79e-3e8",
+      "ts": 1788372724410,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v4",
+      "device": "OPPO CPH2639",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.10.4",
+        "app_tag": "",
+        "fw_ver": "v4",
+        "wants": "fw v4"
+      }
+    },
+    {
       "id": "fee510c0-6dc",
       "ts": 1788372720392,
       "type": "download_fw",
@@ -1488,5 +1506,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788372721917
+  "updated": 1788372725774
 }
