@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "a80fbe21-195",
+      "ts": 1788372494688,
+      "type": "register",
+      "user": "Aronz777",
+      "summary": "New user registered",
+      "device": "OPPO CPH2639",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "16de8094-a07",
       "ts": 1788342356905,
       "type": "health",
@@ -1403,5 +1414,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788342357879
+  "updated": 1788372495528
 }
