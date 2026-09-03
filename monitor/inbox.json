@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "f093f5c3-af7",
+      "ts": 1788424147930,
+      "type": "download_fw",
+      "user": "offline",
+      "summary": "Wants FW v4",
+      "device": "HONOR DNP-NX9",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.10.4",
+        "app_tag": "",
+        "fw_ver": "v4",
+        "wants": "fw v4"
+      }
+    },
+    {
       "id": "b5335f84-879",
       "ts": 1788424145575,
       "type": "download_fw",
@@ -1638,5 +1656,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788424146288
+  "updated": 1788424148670
 }
