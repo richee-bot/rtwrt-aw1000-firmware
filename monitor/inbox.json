@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "e0a951a4-c69",
+      "ts": 1788423750222,
+      "type": "register",
+      "user": "offline",
+      "summary": "New user registered",
+      "device": "HONOR DNP-NX9",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "cb61a8c7-f99",
       "ts": 1788407499468,
       "type": "health",
@@ -1534,5 +1545,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788407500376
+  "updated": 1788423751025
 }
