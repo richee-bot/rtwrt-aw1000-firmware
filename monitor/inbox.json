@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "ad72150d-3a4",
+      "ts": 1788424090482,
+      "type": "health",
+      "user": "offline",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 64°C · SSD —",
+      "device": "HONOR DNP-NX9",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.21\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "8e5db5e0-298",
       "ts": 1788424083286,
       "type": "register",
@@ -1606,5 +1620,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788424084198
+  "updated": 1788424091409
 }
