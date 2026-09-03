@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "cb61a8c7-f99",
+      "ts": 1788407499468,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 60°C · SSD —",
+      "device": "OPPO CPH2639",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.02\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "6cf23420-aee",
       "ts": 1788386482185,
       "type": "health",
@@ -1520,5 +1534,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788386483488
+  "updated": 1788407500376
 }
