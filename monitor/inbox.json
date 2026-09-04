@@ -207,14 +207,15 @@
       "device": "OPPO CPH2639",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "fee510c0-6dc",
@@ -225,14 +226,15 @@
       "device": "OPPO CPH2639",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "be606d4c-fb9",
@@ -1707,5 +1709,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788552695978
+  "updated": 1788552709655
 }
