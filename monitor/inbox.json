@@ -381,7 +381,8 @@
       "device": "Xiaomi Redmi Note 7",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "3d3cb2dc-96f",
@@ -1706,5 +1707,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788552693730
+  "updated": 1788552695978
 }
