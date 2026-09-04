@@ -103,7 +103,8 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "2999038d-de7",
@@ -166,7 +167,8 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "cb61a8c7-f99",
@@ -1703,5 +1705,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788552680575
+  "updated": 1788552691424
 }
