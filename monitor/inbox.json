@@ -473,7 +473,8 @@
       "device": "samsung SM-S928B",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "8a1ac724-8ca",
@@ -1702,5 +1703,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788552671554
+  "updated": 1788552680575
 }
