@@ -51,14 +51,15 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "b5335f84-879",
@@ -69,14 +70,15 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "ad72150d-3a4",
@@ -112,14 +114,15 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "9caa72ff-0fb",
@@ -130,14 +133,15 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "d8963368-5b6",
@@ -1698,5 +1702,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788552229217
+  "updated": 1788552671554
 }
