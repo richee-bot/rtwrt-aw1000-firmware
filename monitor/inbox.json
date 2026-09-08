@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "93ee96c1-ed3",
+      "ts": 1788892410168,
+      "type": "health",
+      "user": "root",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "7a2dc89d-71b",
       "ts": 1788581991173,
       "type": "health",
@@ -1737,5 +1751,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1788581992076
+  "updated": 1788892411165
 }
