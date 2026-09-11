@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "18179296-91a",
+      "ts": 1789085732739,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 58°C · SSD —",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":58,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "98319aff-029",
       "ts": 1789075622601,
       "type": "health",
@@ -1793,5 +1807,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1789076642658
+  "updated": 1789085734648
 }
