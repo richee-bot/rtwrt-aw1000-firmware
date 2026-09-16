@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "69914e2a-3dd",
+      "ts": 1789526393369,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.19\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "e73bbd79-d2d",
       "ts": 1789275287017,
       "type": "health",
@@ -1821,19 +1835,7 @@
       "extra": {
         "power": "{\"hostname\":\"RTWRT\",\"model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"release\":\"RTWRT OFFICIAL 24.10.1\",\"stamp\":\"2026-07-18 05:50:32\",\"uptime\":\"0d 05:49:58\",\"load\":\"0.01 0.02 0.00\",\"cpu\":1,\"temp\":\"60 C\",\"mem_pct\":39,\"flash_pct\":37,\"clients\":13,\"wifi_count\":10,\"conn\":259,\"tcp\":251,\"udp\":46,\"wan_rx\":2739655064,\"wan_tx\":664480438,\"wan_rx_rate\":78186,\"wan_tx_rate\":25322,\"usage_rx_total\":688446178,\"usage_tx_total\":2575232488,\"usage_total\":3263678666,\"ifaces\":[{\"name\":\"miireg\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan1\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan2\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan3\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"lan4\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wan\",\"rx\":0,\"tx\":0,\"rx_rate\":0,\"tx_rate\":0},{\"name\":\"wwan0\",\"rx"
       }
-    },
-    {
-      "id": "588e6b04-9f4",
-      "ts": 1784325027309,
-      "type": "register",
-      "user": "richeetayu",
-      "summary": "New user registered",
-      "device": "nubia NX729J",
-      "app": "1.6.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1789275288033
+  "updated": 1789526395182
 }
