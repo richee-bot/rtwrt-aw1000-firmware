@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "6a32902f-802",
+      "ts": 1789717622909,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 43°C · SSD —",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":43,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.18\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "adb503fe-513",
       "ts": 1789676763272,
       "type": "health",
@@ -1809,24 +1823,7 @@
         "fw_ver": "v3"
       },
       "status": "approved"
-    },
-    {
-      "id": "34fb278e-93b",
-      "ts": 1784325307494,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Request download: app",
-      "device": "nubia NX729J",
-      "app": "1.6.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.6.0",
-        "fw_ver": "v3"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1789676763844
+  "updated": 1789717623714
 }
