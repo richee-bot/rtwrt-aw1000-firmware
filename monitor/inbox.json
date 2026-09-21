@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "dff2b3ac-f36",
+      "ts": 1789957872337,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 45°C · SSD —",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":45,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.12\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "2cb5cc6e-635",
       "ts": 1789957738853,
       "type": "health",
@@ -1800,24 +1814,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.02\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "3d2c6b78-508",
-      "ts": 1784362323032,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Request download: app",
-      "device": "nubia NX729J",
-      "app": "1.6.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.6.0",
-        "fw_ver": "v3"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1789957740718
+  "updated": 1789957874267
 }
