@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "a25e543f-893",
+      "ts": 1790670780217,
+      "type": "download_fw",
+      "user": "OfflineeMode",
+      "summary": "Wants FW v4",
+      "device": "HONOR DNP-NX9",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.10.4",
+        "app_tag": "",
+        "fw_ver": "v4",
+        "wants": "fw v4"
+      }
+    },
+    {
       "id": "dfe82c99-89b",
       "ts": 1790670703107,
       "type": "health",
@@ -1782,24 +1800,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "220ce37d-784",
-      "ts": 1784362987394,
-      "type": "download_fw",
-      "user": "richeetayu",
-      "summary": "Request download: fw",
-      "device": "nubia NX729J",
-      "app": "1.6.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.6.0",
-        "fw_ver": "v3"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790670705681
+  "updated": 1790670781763
 }
