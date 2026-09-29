@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "b7be3090-98d",
+      "ts": 1790684258771,
+      "type": "download_fw",
+      "user": "tayu",
+      "summary": "Wants FW v5",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "7cb883e3-b51",
       "ts": 1790684128018,
       "type": "health",
@@ -1788,21 +1806,7 @@
         "wants": "app 1.10.4"
       },
       "status": "approved"
-    },
-    {
-      "id": "88ed5855-e81",
-      "ts": 1784389063559,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE ÃÂ· 192.168.1.1 ÃÂ· CPU 53ÃÂ°C ÃÂ· SSD 48ÃÂ°C",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":48,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.64\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790684129041
+  "updated": 1790684259605
 }
