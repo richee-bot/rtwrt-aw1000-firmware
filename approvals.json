@@ -8,7 +8,8 @@
   "fw:v5": [],
   "app:1.10.4": [],
   "app:1.10.5": [
-    "tayu"
+    "tayu",
+    "kert_koben"
   ],
   "app:1.11.0": [
     "tayu"
