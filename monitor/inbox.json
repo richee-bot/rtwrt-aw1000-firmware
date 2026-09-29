@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "ca74b826-c46",
+      "ts": 1790689672120,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.55\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "cf6bf76d-244",
       "ts": 1790689554618,
       "type": "download_app",
@@ -1791,21 +1805,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "c4e765f2-e92",
-      "ts": 1784618939649,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 63°C · SSD —",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":63,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790689555498
+  "updated": 1790689673150
 }
