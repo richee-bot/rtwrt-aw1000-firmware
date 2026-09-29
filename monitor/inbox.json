@@ -9,14 +9,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.0",
         "app_tag": "app-1.11.0",
         "fw_ver": "v5",
         "wants": "app 1.11.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "e158dbc3-f81",
@@ -27,14 +28,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.0",
         "app_tag": "app-1.11.0",
         "fw_ver": "v5",
         "wants": "app 1.11.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "fbdfb256-a44",
@@ -45,14 +47,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.0",
         "app_tag": "app-1.11.0",
         "fw_ver": "v5",
         "wants": "app 1.11.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "383cce3c-d3b",
@@ -1802,5 +1805,5 @@
       }
     }
   ],
-  "updated": 1790681903303
+  "updated": 1790682039625
 }
