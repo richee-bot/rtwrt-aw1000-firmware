@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "cf6bf76d-244",
+      "ts": 1790689554618,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 1.11.2 (app-1.11.2)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.11.2",
+        "app_tag": "app-1.11.2",
+        "fw_ver": "v5",
+        "wants": "app 1.11.2"
+      }
+    },
+    {
       "id": "337aebaa-faf",
       "ts": 1790689534865,
       "type": "health",
@@ -1787,19 +1805,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":63,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "b978732b-f02",
-      "ts": 1784618931948,
-      "type": "register",
-      "user": "Aronz777",
-      "summary": "New user registered",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790689535667
+  "updated": 1790689555498
 }
