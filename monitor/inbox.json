@@ -269,14 +269,15 @@
       "device": "nubia NX729J",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.0",
         "app_tag": "app-1.11.0",
         "fw_ver": "v5",
         "wants": "app 1.11.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "af3a7433-f5c",
@@ -1806,5 +1807,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1790683079735
+  "updated": 1790683089405
 }
