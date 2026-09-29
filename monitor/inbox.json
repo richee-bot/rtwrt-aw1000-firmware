@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "436d411a-741",
+      "ts": 1790686697731,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "30663ac0-99f",
       "ts": 1790684947242,
       "type": "health",
@@ -1785,28 +1799,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "a87bb863dbe1",
-      "ts": 1784518661831,
-      "type": "download_app",
-      "user": "root",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) · from \/rtwrt\/app",
-      "device": "web-portal",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
-        "fw_ver": "v3",
-        "source": "\/rtwrt\/app\/",
-        "wants": "app 1.10.4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790684950315
+  "updated": 1790686698705
 }
