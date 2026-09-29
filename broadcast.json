@@ -1,6 +1,6 @@
 {
-  "id": 15,
+  "id": 16,
   "active": true,
-  "title": "RTWRT 1.11.0",
-  "body": "The native RTWRT app is ready.\n\nOpen Update and install 1.11.0.\nThe top strip now reads the router directly.\nCommunity is the new discussion chat.\n\nFirmware v5 is still the latest router image.\n\n-- @richeetayu --"
+  "title": "RTWRT 1.11.2",
+  "body": "App 1.11.2 is ready.\n\nOpen Update and install 1.11.2.\nHome tiles are black with a green outline and green text.\nMenus no longer list the same page twice.\nCommunity shows the message history.\n\nFirmware v5 is still the latest router image.\n\n-- @richeetayu --"
 }
