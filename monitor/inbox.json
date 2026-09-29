@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "44dc3d33-470",
+      "ts": 1790680165161,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "d30b46f4-447",
       "ts": 1790680148191,
       "type": "register",
@@ -1789,26 +1803,7 @@
         "wants": "app 1.8.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "60abfcb5-dbd",
-      "ts": 1784373042514,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Wants APP 1.8.0 (app-1.8)",
-      "device": "nubia NX729J",
-      "app": "1.8.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.8.0",
-        "app_tag": "app-1.8",
-        "fw_ver": "v4",
-        "wants": "app 1.8.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790680149349
+  "updated": 1790680165882
 }
