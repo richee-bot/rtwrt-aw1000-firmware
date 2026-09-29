@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "71f82d14-fc3",
+      "ts": 1790683972494,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 1.11.2 (app-1.11.2)",
+      "device": "OPPO CPH2639",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.11.2",
+        "app_tag": "app-1.11.2",
+        "fw_ver": "v4",
+        "wants": "app 1.11.2"
+      }
+    },
+    {
       "id": "16504c14-647",
       "ts": 1790683951193,
       "type": "download_app",
@@ -1783,28 +1801,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "4ddae863de97",
-      "ts": 1784386373668,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) ÃÂ· from \/rtwrt\/app",
-      "device": "web-portal",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
-        "fw_ver": "v3",
-        "source": "\/rtwrt\/app\/",
-        "wants": "app 1.10.4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790683952094
+  "updated": 1790683973499
 }
