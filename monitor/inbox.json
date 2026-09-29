@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "4d3507a1-c02",
+      "ts": 1790684260830,
+      "type": "download_fw",
+      "user": "tayu",
+      "summary": "Wants FW v5",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "b7be3090-98d",
       "ts": 1790684258771,
       "type": "download_fw",
@@ -1785,28 +1803,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "212d71cb232f",
-      "ts": 1784456843693,
-      "type": "download_app",
-      "user": "aronz777",
-      "summary": "Wants APP 1.10.4 (app-1.10.4) Â· from \/rtwrt\/app",
-      "device": "web-portal",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.10.4\/RTWRT-richeetayu-v1.10.4-release.apk",
-        "fw_ver": "v3",
-        "source": "\/rtwrt\/app\/",
-        "wants": "app 1.10.4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790684259605
+  "updated": 1790684262000
 }
