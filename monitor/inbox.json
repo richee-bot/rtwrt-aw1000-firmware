@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "fbdfb256-a44",
+      "ts": 1790681307492,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 1.11.0 (app-1.11.0)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.11.0",
+        "app_tag": "app-1.11.0",
+        "fw_ver": "v5",
+        "wants": "app 1.11.0"
+      }
+    },
+    {
       "id": "383cce3c-d3b",
       "ts": 1790680747254,
       "type": "health",
@@ -1779,26 +1797,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.10\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "8537543b-762",
-      "ts": 1784373872566,
-      "type": "download_fw",
-      "user": "richeetayu",
-      "summary": "Wants FW v4",
-      "device": "nubia NX729J",
-      "app": "1.8.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.8.0",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790680748371
+  "updated": 1790681308341
 }
