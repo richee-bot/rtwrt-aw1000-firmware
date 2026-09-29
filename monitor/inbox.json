@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "e7ef5384-814",
+      "ts": 1790678912705,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "ad0269f0-e7e",
       "ts": 1790678422974,
       "type": "health",
@@ -1791,24 +1805,7 @@
         "fw_ver": "v3"
       },
       "status": "approved"
-    },
-    {
-      "id": "cb993dbb-79b",
-      "ts": 1784364114212,
-      "type": "download_fw",
-      "user": "richeetayu",
-      "summary": "Request download: fw",
-      "device": "nubia NX729J",
-      "app": "1.6.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.6.0",
-        "fw_ver": "v3"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790678423500
+  "updated": 1790678913434
 }
