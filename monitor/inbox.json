@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "215440d9-e6a",
+      "ts": 1790682711727,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "308323b6-f06",
       "ts": 1790682609711,
       "type": "download_fw",
@@ -1783,26 +1797,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "c20b2d06-aa8",
-      "ts": 1784384042043,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Wants APP 1.7.0 (app-1.7)",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.7.0",
-        "app_tag": "app-1.7",
-        "fw_ver": "v4",
-        "wants": "app 1.7.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790682610644
+  "updated": 1790682712460
 }
