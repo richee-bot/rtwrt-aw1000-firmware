@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "30663ac0-99f",
+      "ts": 1790684947242,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "e963e995-978",
       "ts": 1790684364456,
       "type": "health",
@@ -1792,21 +1806,7 @@
         "wants": "app 1.10.4"
       },
       "status": "approved"
-    },
-    {
-      "id": "6d7fac86-233",
-      "ts": 1784505673418,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE Â· rtwrt.tail4af42b.ts.net Â· CPU 53Â°C Â· SSD 48Â°C",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":48,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.12\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790684365100
+  "updated": 1790684950315
 }
