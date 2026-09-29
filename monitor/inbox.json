@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "308323b6-f06",
+      "ts": 1790682609711,
+      "type": "download_fw",
+      "user": "deepstroyer",
+      "summary": "Wants FW v4",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.10.4",
+        "app_tag": "",
+        "fw_ver": "v4",
+        "wants": "fw v4"
+      }
+    },
+    {
       "id": "a036d77a-037",
       "ts": 1790682606411,
       "type": "download_fw",
@@ -1784,26 +1802,7 @@
         "wants": "app 1.7.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "d7de59e8-dfe",
-      "ts": 1784383930469,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Wants APP 1.10.4 (app-1.10.4)",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "fw_ver": "v4",
-        "wants": "app 1.10.4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790682607670
+  "updated": 1790682610644
 }
