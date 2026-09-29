@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "2eea6109-3ea",
+      "ts": 1790718205201,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · rtwrt.tailb43e43.ts.net · CPU 59°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.10\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "1aa4dd34-8c6",
       "ts": 1790718035708,
       "type": "health",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "3506cb1c-02f",
-      "ts": 1785286166495,
-      "type": "health",
-      "user": "root",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 58°C · SSD —",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":58,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":984,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"24\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790718036649
+  "updated": 1790718206207
 }
