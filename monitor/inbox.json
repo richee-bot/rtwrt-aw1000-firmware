@@ -23,14 +23,15 @@
       "device": "samsung SM-S928B",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "a036d77a-037",
@@ -41,14 +42,15 @@
       "device": "samsung SM-S928B",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.10.4",
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "4a6c1624-560",
@@ -1804,5 +1806,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1790683072809
+  "updated": 1790683079735
 }
