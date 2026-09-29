@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "139fd0b1-8c4",
+      "ts": 1790689692263,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 1.11.2 (app-1.11.2)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.11.2",
+        "app_tag": "app-1.11.2",
+        "fw_ver": "v5",
+        "wants": "app 1.11.2"
+      }
+    },
+    {
       "id": "ca74b826-c46",
       "ts": 1790689672120,
       "type": "health",
@@ -1791,21 +1809,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":65,\"ssd_temp_c\":67,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "438834f0-eb5",
-      "ts": 1784679107925,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790689673150
+  "updated": 1790689693611
 }
