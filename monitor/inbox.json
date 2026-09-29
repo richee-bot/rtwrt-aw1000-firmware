@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "be7ae4fb-bb6",
+      "ts": 1790690815643,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "139fd0b1-8c4",
       "ts": 1790689692263,
       "type": "download_app",
@@ -1795,21 +1809,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "8c08d58f-3ee",
-      "ts": 1785247420346,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 65°C · SSD 67°C",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":65,\"ssd_temp_c\":67,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":976,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790689693611
+  "updated": 1790690816185
 }
