@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "ea742b43-231",
+      "ts": 1790679634579,
+      "type": "health",
+      "user": "OfflineeMode",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
+      "device": "HONOR DNP-NX9",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "966ae329-a3e",
       "ts": 1790679265926,
       "type": "download_app",
@@ -1793,19 +1807,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "c1359321-cdc",
-      "ts": 1784372947375,
-      "type": "register",
-      "user": "richeetayu",
-      "summary": "New user registered",
-      "device": "nubia NX729J",
-      "app": "1.8.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790679279789
+  "updated": 1790679636116
 }
