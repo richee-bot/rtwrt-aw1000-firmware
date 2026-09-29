@@ -23,14 +23,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.2",
         "app_tag": "app-1.11.2",
         "fw_ver": "v5",
         "wants": "app 1.11.2"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "ca74b826-c46",
@@ -55,14 +56,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.11.2",
         "app_tag": "app-1.11.2",
         "fw_ver": "v5",
         "wants": "app 1.11.2"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "337aebaa-faf",
@@ -1811,5 +1813,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1790690816185
+  "updated": 1790690829267
 }
