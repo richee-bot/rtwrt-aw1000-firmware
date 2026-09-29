@@ -9,7 +9,7 @@
       "device": "nubia NX729J",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
@@ -23,7 +23,7 @@
       "device": "nubia NX729J",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
@@ -75,7 +75,7 @@
       "device": "samsung SM-S928B",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -89,7 +89,7 @@
       "device": "nubia NX729J",
       "app": "1.11.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
@@ -122,7 +122,7 @@
       "device": "samsung SM-S928B",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -269,7 +269,7 @@
       "device": "nubia NX729J",
       "app": "1.11.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
@@ -340,7 +340,7 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
@@ -366,7 +366,7 @@
       "device": "HONOR DNP-NX9",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
@@ -418,7 +418,7 @@
       "device": "nubia NX729J",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "power": ""
       }
