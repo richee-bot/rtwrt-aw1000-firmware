@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "38c3eb15-3be",
+      "ts": 1790717980378,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "3ebef7c5-a34",
       "ts": 1790717932037,
       "type": "health",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.09\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "409790c7-fc4",
-      "ts": 1785247736547,
-      "type": "health",
-      "user": "root",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 54°C · SSD —",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.08\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790717933369
+  "updated": 1790717981121
 }
