@@ -150,7 +150,8 @@
       "device": "HONOR MTN-NX1",
       "app": "1.10.5",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "ea742b43-231",
@@ -1805,5 +1806,5 @@
       }
     }
   ],
-  "updated": 1790682039625
+  "updated": 1790682051574
 }
