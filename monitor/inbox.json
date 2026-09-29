@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "3ebef7c5-a34",
+      "ts": 1790717932037,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "be7ae4fb-bb6",
       "ts": 1790690815643,
       "type": "health",
@@ -1799,19 +1813,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.08\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "4ec1e262-e15",
-      "ts": 1785247729346,
-      "type": "register",
-      "user": "root",
-      "summary": "New user registered",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790690829267
+  "updated": 1790717933369
 }
