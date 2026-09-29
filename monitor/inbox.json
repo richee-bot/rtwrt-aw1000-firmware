@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "4a6c1624-560",
+      "ts": 1790682556915,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD —",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "2548bed5-462",
       "ts": 1790682506198,
       "type": "health",
@@ -1785,21 +1799,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":52,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.04\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "fd2d3da5-8f1",
-      "ts": 1784383813654,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: ONLINE ÃÂÃÂÃÂÃÂ· rtwrt.tail4af42b.ts.net ÃÂÃÂÃÂÃÂ· CPU 52ÃÂÃÂÃÂÃÂ°C ÃÂÃÂÃÂÃÂ· SSD 49ÃÂÃÂÃÂÃÂ°C",
-      "device": "nubia NX729J",
-      "app": "1.10.3",
-      "host": "rtwrt.tail4af42b.ts.net",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":52,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.13\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790682506891
+  "updated": 1790682557810
 }
