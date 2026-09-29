@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "af3a7433-f5c",
+      "ts": 1790680385443,
+      "type": "download_app",
+      "user": "tayu",
+      "summary": "Wants APP 1.11.0 (app-1.11.0)",
+      "device": "nubia NX729J",
+      "app": "1.10.5",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.11.0",
+        "app_tag": "app-1.11.0",
+        "fw_ver": "v5",
+        "wants": "app 1.11.0"
+      }
+    },
+    {
       "id": "b76c42d4-ca2",
       "ts": 1790680360368,
       "type": "download_app",
@@ -1780,28 +1798,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":50,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.04\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "9be694f196c6",
-      "ts": 1784373554452,
-      "type": "download_app",
-      "user": "richeetayu",
-      "summary": "Wants APP 1.8.0 (app-1.8) ÃÂÃÂÃÂÃÂ· from \/rtwrt\/app",
-      "device": "web-portal",
-      "app": "1.8.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.8.0",
-        "app_tag": "app-1.8",
-        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.8\/RTWRT-richeetayu-v1.8-release.apk",
-        "fw_ver": "v3",
-        "source": "\/rtwrt\/app\/",
-        "wants": "app 1.8.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790680376142
+  "updated": 1790680386572
 }
