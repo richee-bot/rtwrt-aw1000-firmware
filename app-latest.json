@@ -1,7 +1,7 @@
 {
-  "version": "1.10.5",
-  "tag": "app-1.10.5",
-  "apk_name": "RTWRT-richeetayu-v1.10.5-release.apk",
-  "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.5/RTWRT-richeetayu-v1.10.5-release.apk",
-  "notes": "Status strip, Manual, firmware channel v5"
+  "version": "1.11.0",
+  "tag": "app-1.11.0",
+  "apk_name": "RTWRT-1.11.0-release.apk",
+  "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.11.0/RTWRT-1.11.0-release.apk",
+  "notes": "Native manager, live status strip, community chat"
 }
