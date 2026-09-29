@@ -115,7 +115,8 @@
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "a25e543f-893",
@@ -133,7 +134,8 @@
         "app_tag": "",
         "fw_ver": "v4",
         "wants": "fw v4"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "dfe82c99-89b",
@@ -1811,5 +1813,5 @@
       }
     }
   ],
-  "updated": 1790679672133
+  "updated": 1790679683622
 }
