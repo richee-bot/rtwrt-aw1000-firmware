@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "a7b5ac6e-0e8",
+      "ts": 1790775870093,
+      "type": "download_app",
+      "user": "tayu",
+      "summary": "Wants APP 1.12.0 (app-1.12.0)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.12.0",
+        "app_tag": "app-1.12.0",
+        "fw_ver": "v5",
+        "wants": "app 1.12.0"
+      }
+    },
+    {
       "id": "eebab2dc-e24",
       "ts": 1790774429375,
       "type": "download_fw",
@@ -1905,21 +1923,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":58,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.27\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "97e3aa97-27e",
-      "ts": 1788529031881,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 61°C · SSD —",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":61,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.37\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790774436594
+  "updated": 1790775871123
 }
