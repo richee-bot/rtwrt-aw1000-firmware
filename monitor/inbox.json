@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "dd970a39-b57",
+      "ts": 1790791131690,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "rtwrt-1.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "24cb8a54-45c",
       "ts": 1790789152330,
       "type": "health",
@@ -1966,21 +1980,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "f8a434c8-71c",
-      "ts": 1790042912377,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 45°C · SSD —",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":45,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.25\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790789153248
+  "updated": 1790791132756
 }
