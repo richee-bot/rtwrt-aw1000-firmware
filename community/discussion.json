@@ -1,24 +1,3 @@
 {
-  "messages": [
-    {
-      "id": "welcome",
-      "ts": 1759161600000,
-      "user": "richeetayu",
-      "text": "Community is open. Say hello."
-    },
-    {
-      "id": "f755c97b-69e",
-      "ts": 1790681329424,
-      "user": "tayu",
-      "text": "got issue sikit kat previous app update🥹",
-      "device": "nubia NX729J"
-    },
-    {
-      "id": "72265365-e2d",
-      "ts": 1790761174213,
-      "user": "tayu",
-      "text": "test1",
-      "device": "nubia NX729J"
-    }
-  ]
+  "messages": []
 }
