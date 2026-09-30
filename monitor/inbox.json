@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "c4207c1b-d37",
+      "ts": 1790755949713,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "78fc0561-068",
       "ts": 1790755469286,
       "type": "health",
@@ -1902,26 +1916,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":49,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.03\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "8a03e79e-3e8",
-      "ts": 1788372724410,
-      "type": "download_fw",
-      "user": "Aronz777",
-      "summary": "Wants FW v4",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.10.4",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790755470658
+  "updated": 1790755950692
 }
