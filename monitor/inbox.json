@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "eebab2dc-e24",
+      "ts": 1790774429375,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v5.1",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5.1",
+        "wants": "fw v5.1"
+      }
+    },
+    {
       "id": "fe676061-c17",
       "ts": 1790774425127,
       "type": "health",
@@ -1901,21 +1919,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":61,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.37\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "8b56b657-5e7",
-      "ts": 1788441159747,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD —",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.13\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790774432350
+  "updated": 1790774436594
 }
