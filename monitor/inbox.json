@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "bbfb740f-0ca",
+      "ts": 1790797501294,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "rtwrt-1.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "1c5dc26e-e13",
       "ts": 1790796558636,
       "type": "health",
@@ -1968,21 +1982,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":48,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.03\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "3223528a-52e",
-      "ts": 1790254271717,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 54°C · SSD —",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":54,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.13\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790797226947
+  "updated": 1790797502998
 }
