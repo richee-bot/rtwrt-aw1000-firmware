@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "391612a9-5da",
+      "ts": 1790810204254,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Set Tailscale host in Settings",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.1",
+      "host": "",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "612088d4-b99",
       "ts": 1790810164409,
       "type": "health",
@@ -1952,21 +1966,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "ad0269f0-e7e",
-      "ts": 1790678422974,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790810166059
+  "updated": 1790810204880
 }
