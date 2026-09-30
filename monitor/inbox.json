@@ -23,7 +23,8 @@
       "device": "Xiaomi M2012K11AG",
       "app": "1.12.0",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "b873333e-1bd",
@@ -1953,5 +1954,5 @@
       }
     }
   ],
-  "updated": 1790783830134
+  "updated": 1790783849534
 }
