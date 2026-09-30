@@ -93,14 +93,15 @@
       "device": "Xiaomi M2012K11AG",
       "app": "1.12.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.12.0",
         "app_tag": "",
         "fw_ver": "v5.1",
         "wants": "fw v5.1"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "f2f63917-598",
@@ -111,14 +112,15 @@
       "device": "Xiaomi M2012K11AG",
       "app": "1.12.0",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.12.0",
         "app_tag": "",
         "fw_ver": "v5.1",
         "wants": "fw v5.1"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "db4dd048-8f8",
@@ -1982,5 +1984,5 @@
       }
     }
   ],
-  "updated": 1790796559506
+  "updated": 1790797226947
 }
