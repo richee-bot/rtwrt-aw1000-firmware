@@ -2,37 +2,34 @@
   "packages": [
     {
       "name": "Adguard-Home",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-Adguard-Home\/upload.ipk"
-    },
-    {
-      "name": "CPU-Limit",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CPU-Limit\/upload.ipk"
+      "note": "adguardhome 0.107.79 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-Adguard-Home/adguardhome-0.107.79-r1.apk"
     },
     {
       "name": "NextDNS",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-NextDNS\/upload.ipk"
+      "note": "nextdns 1.47.3 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-NextDNS/nextdns-1.47.3-r1.apk"
     },
     {
       "name": "OpenVPN",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-OpenVPN\/upload.ipk"
+      "note": "openvpn-openssl 2.7.7 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-OpenVPN/openvpn-openssl-2.7.7-r1.apk"
     },
     {
       "name": "CloudFlare",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-CloudFlare\/upload.ipk"
+      "note": "cloudflared 2026.7.3 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-CloudFlare/cloudflared-2026.7.3-r1.apk"
     },
     {
       "name": "ZeroTier",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-ZeroTier\/upload.ipk"
+      "note": "zerotier 1.16.0 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-ZeroTier/zerotier-1.16.0-r1.apk"
     },
     {
       "name": "SmartDNS",
-      "note": "",
-      "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-SmartDNS\/upload.ipk"
+      "note": "smartdns 46.1 · aarch64_cortex-a53 · OpenWrt 25.12.5",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-SmartDNS/smartdns-46.1-r1.apk"
     }
   ],
-  "updated": 1784386150776
+  "updated": "2026-09-30"
 }
