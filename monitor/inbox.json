@@ -9,14 +9,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "8c7a0b71-020",
@@ -27,14 +28,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "9729e2db-0c2",
@@ -45,14 +47,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "77c0a8b8-a18",
@@ -63,14 +66,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "cdf66a90-d7b",
@@ -81,14 +85,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "bfb3ab71-856",
@@ -99,14 +104,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "8db335ad-4d6",
@@ -117,14 +123,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "17587a98-375",
@@ -135,14 +142,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "23c6f518-05c",
@@ -153,14 +161,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "38babcb9-73c",
@@ -171,14 +180,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "cccb9dd0-cfe",
@@ -189,14 +199,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "478d5a87-5ef",
@@ -207,14 +218,15 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "efad8a4e-030",
@@ -1865,5 +1877,5 @@
       }
     }
   ],
-  "updated": 1790732586589
+  "updated": 1790735537256
 }
