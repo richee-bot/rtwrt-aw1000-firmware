@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "efad8a4e-030",
+      "ts": 1790727991628,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "034ad925-705",
       "ts": 1790727964987,
       "type": "health",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "96750271-05b",
-      "ts": 1785444326921,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 51°C · SSD 49°C",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":51,\"ssd_temp_c\":49,\"ssd_model\":\"TOSHIBA KSG60ZMV256G M.2 2280 256GB\",\"ssd_health\":\"PASSED\",\"ssd_device\":\"sda\",\"soc_mv\":968,\"load\":\"0.09\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"23\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790727966404
+  "updated": 1790727992517
 }
