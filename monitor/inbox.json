@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "b0cc4b8c-bba",
+      "ts": 1790783822136,
+      "type": "register",
+      "user": "RiduanWan",
+      "summary": "New user registered",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "b873333e-1bd",
       "ts": 1790776310858,
       "type": "health",
@@ -1940,21 +1951,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.19\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "e73bbd79-d2d",
-      "ts": 1789275287017,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 64°C · SSD —",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790777321763
+  "updated": 1790783823073
 }
