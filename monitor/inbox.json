@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "d40c4194-597",
+      "ts": 1790776052784,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 1.12.0 (app-1.12.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.12.0",
+        "app_tag": "app-1.12.0",
+        "fw_ver": "v5",
+        "wants": "app 1.12.0"
+      }
+    },
+    {
       "id": "1799905b-2f2",
       "ts": 1790775951206,
       "type": "download_app",
@@ -1932,21 +1950,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "73c7c209-1c2",
-      "ts": 1788981899736,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 46°C · SSD —",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":46,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790775963783
+  "updated": 1790776056388
 }
