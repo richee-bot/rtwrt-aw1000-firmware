@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "8db335ad-4d6",
+      "ts": 1790728092907,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v5",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "17587a98-375",
       "ts": 1790728088074,
       "type": "download_fw",
@@ -1819,21 +1837,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "aa1e7f08-765",
-      "ts": 1785644735338,
-      "type": "health",
-      "user": "root",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU — · SSD —",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790728090862
+  "updated": 1790728095515
 }
