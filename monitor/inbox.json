@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "c5c25c9c-cb2",
+      "ts": 1790798486297,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "rtwrt-1.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "67d4b50b-61d",
       "ts": 1790798336036,
       "type": "health",
@@ -1970,19 +1984,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "5242cfa7-a7e",
-      "ts": 1790670693803,
-      "type": "register",
-      "user": "OfflineeMode",
-      "summary": "New user registered",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "rejected"
     }
   ],
-  "updated": 1790798337410
+  "updated": 1790798489188
 }
