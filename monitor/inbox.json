@@ -165,14 +165,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "35dea241-422",
@@ -183,14 +184,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "395b2bc3-0d4",
@@ -1919,5 +1921,5 @@
       }
     }
   ],
-  "updated": 1790754203423
+  "updated": 1790754778919
 }
