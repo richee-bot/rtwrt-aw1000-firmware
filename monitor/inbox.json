@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "612088d4-b99",
+      "ts": 1790810164409,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Set Tailscale host in Settings",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.0",
+      "host": "",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "54cd8aab-083",
       "ts": 1790810059259,
       "type": "health",
@@ -1952,26 +1966,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "52e1cdd7-937",
-      "ts": 1790670813086,
-      "type": "download_app",
-      "user": "OfflineeMode",
-      "summary": "Wants APP 1.10.4 (app-1.10.4)",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.4",
-        "app_tag": "app-1.10.4",
-        "fw_ver": "v4",
-        "wants": "app 1.10.4"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790810060117
+  "updated": 1790810166059
 }
