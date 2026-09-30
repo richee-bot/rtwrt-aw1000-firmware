@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "8c2b1a8d-089",
+      "ts": 1790774424293,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v5",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "2a11c533-145",
       "ts": 1790770214528,
       "type": "download_fw",
@@ -1902,26 +1920,7 @@
         "wants": "fw v4"
       },
       "status": "approved"
-    },
-    {
-      "id": "b5335f84-879",
-      "ts": 1788424145575,
-      "type": "download_fw",
-      "user": "offline",
-      "summary": "Wants FW v4",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.10.4",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790771430690
+  "updated": 1790774425747
 }
