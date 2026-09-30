@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "f2f63917-598",
+      "ts": 1790784123174,
+      "type": "download_fw",
+      "user": "RiduanWan",
+      "summary": "Wants FW v5.1",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.12.0",
+        "app_tag": "",
+        "fw_ver": "v5.1",
+        "wants": "fw v5.1"
+      }
+    },
+    {
       "id": "db4dd048-8f8",
       "ts": 1790784033886,
       "type": "download_fw",
@@ -1958,21 +1976,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":50,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "6a32902f-802",
-      "ts": 1789717622909,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 43°C · SSD —",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":43,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.18\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790784048791
+  "updated": 1790784125005
 }
