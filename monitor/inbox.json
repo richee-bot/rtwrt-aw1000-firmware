@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "7e4320db-0ac",
+      "ts": 1790806398477,
+      "type": "register",
+      "user": "RiduanWan",
+      "summary": "New user registered",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "c5c25c9c-cb2",
       "ts": 1790798486297,
       "type": "health",
@@ -1970,21 +1981,7 @@
         "wants": "fw v4"
       },
       "status": "rejected"
-    },
-    {
-      "id": "dfe82c99-89b",
-      "ts": 1790670703107,
-      "type": "health",
-      "user": "OfflineeMode",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790798489188
+  "updated": 1790806399273
 }
