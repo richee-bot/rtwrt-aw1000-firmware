@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "cdf66a90-d7b",
+      "ts": 1790728155402,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v5",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "bfb3ab71-856",
       "ts": 1790728152992,
       "type": "download_fw",
@@ -1827,21 +1845,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "1ccd81e6-746",
-      "ts": 1785654655442,
-      "type": "health",
-      "user": "root",
-      "summary": "health: OFFLINE · Set Tailscale host in Settings",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790728153811
+  "updated": 1790728156252
 }
