@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "67d4b50b-61d",
+      "ts": 1790798336036,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "rtwrt-1.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "bbfb740f-0ca",
       "ts": 1790797501294,
       "type": "health",
@@ -1968,21 +1982,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "rejected"
-    },
-    {
-      "id": "510f0914-d94",
-      "ts": 1790639070360,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 48°C · SSD —",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":48,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.03\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790797502998
+  "updated": 1790798337410
 }
