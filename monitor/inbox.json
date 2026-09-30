@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "b873333e-1bd",
+      "ts": 1790776310858,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "6fb3e461-b30",
       "ts": 1790776302138,
       "type": "register",
@@ -1937,21 +1951,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "4ad7b9d7-153",
-      "ts": 1789086037086,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 58°C · SSD —",
-      "device": "nubia NX729J",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":58,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.25\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790776304088
+  "updated": 1790776312382
 }
