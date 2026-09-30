@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "414ed62b-5d1",
+      "ts": 1790763481334,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 60°C · SSD —",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "23ff2e69-7ff",
       "ts": 1790760736576,
       "type": "health",
@@ -1895,26 +1909,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "2999038d-de7",
-      "ts": 1788423823326,
-      "type": "download_fw",
-      "user": "offline",
-      "summary": "Wants FW v4",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.10.4",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790763070834
+  "updated": 1790763482233
 }
