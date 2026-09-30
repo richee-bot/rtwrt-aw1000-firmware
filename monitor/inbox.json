@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "1799905b-2f2",
+      "ts": 1790775951206,
+      "type": "download_app",
+      "user": "tayu",
+      "summary": "Wants APP 1.12.0 (app-1.12.0)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.12.0",
+        "app_tag": "app-1.12.0",
+        "fw_ver": "v5",
+        "wants": "app 1.12.0"
+      }
+    },
+    {
       "id": "441c11b7-a7b",
       "ts": 1790775934635,
       "type": "download_app",
@@ -1924,21 +1942,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":46,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":968,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "93ee96c1-ed3",
-      "ts": 1788892410168,
-      "type": "health",
-      "user": "root",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790775935945
+  "updated": 1790775952058
 }
