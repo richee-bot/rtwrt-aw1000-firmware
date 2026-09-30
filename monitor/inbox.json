@@ -9,14 +9,15 @@
       "device": "nubia NX729J",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.12.0",
         "app_tag": "app-1.12.0",
         "fw_ver": "v5",
         "wants": "app 1.12.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "eebab2dc-e24",
@@ -1925,5 +1926,5 @@
       }
     }
   ],
-  "updated": 1790775871123
+  "updated": 1790775883967
 }
