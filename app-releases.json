@@ -1,4 +1,5 @@
 {"apps":[
+{"version":"1.12.1","tag":"app-1.12.1","apk_url":"https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.12.1/RTWRT-1.12.1-release.apk","notes":"Live qmodem card: signal, tower, band, RSRP, RSRQ, SINR, rates, SMS count"},
 {"version":"1.12.0","tag":"app-1.12.0","apk_url":"https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.12.0/RTWRT-1.12.0-release.apk","notes":"Ice outline, live router cards, Wi-Fi on/off and channel, switches, SMS, commands"},
 {"version":"1.11.2","tag":"app-1.11.2","apk_url":"https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.11.2/RTWRT-1.11.2-release.apk","notes":"Black tiles with green outline, duplicate menus removed, community history"},
 {"version":"1.10.4","tag":"app-1.10.4","apk_url":"https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.10.4/RTWRT-richeetayu-v1.10.4-release.apk","notes":"opkg remove fix"},
