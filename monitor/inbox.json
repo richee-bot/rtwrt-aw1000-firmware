@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "84f3bef5-b86",
+      "ts": 1790784004088,
+      "type": "download_fw",
+      "user": "RiduanWan",
+      "summary": "Wants FW v5.1",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.12.0",
+        "app_tag": "",
+        "fw_ver": "v5.1",
+        "wants": "fw v5.1"
+      }
+    },
+    {
       "id": "20743049-615",
       "ts": 1790783829182,
       "type": "health",
@@ -1938,21 +1956,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.13\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "4aeff6a9-011",
-      "ts": 1789644223247,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790783849534
+  "updated": 1790784005738
 }
