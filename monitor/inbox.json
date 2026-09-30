@@ -107,7 +107,8 @@
       "device": "OPPO CPH2639",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "974b5e2c-661",
@@ -1915,5 +1916,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1790760737503
+  "updated": 1790763070834
 }
