@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "949d939e-5db",
+      "ts": 1790770211932,
+      "type": "download_fw",
+      "user": "tayu",
+      "summary": "Wants FW v5",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "414ed62b-5d1",
       "ts": 1790763481334,
       "type": "health",
@@ -1897,19 +1915,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.21\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "8e5db5e0-298",
-      "ts": 1788424083286,
-      "type": "register",
-      "user": "offline",
-      "summary": "New user registered",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790763482233
+  "updated": 1790770212851
 }
