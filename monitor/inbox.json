@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "2d7496de-0a1",
+      "ts": 1790757167256,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "31d1c5af-e0a",
       "ts": 1790756828743,
       "type": "health",
@@ -1904,21 +1918,7 @@
         "wants": "fw v4"
       },
       "status": "approved"
-    },
-    {
-      "id": "d8963368-5b6",
-      "ts": 1788423757675,
-      "type": "health",
-      "user": "offline",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 64°C · SSD —",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.08\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790756829270
+  "updated": 1790757168470
 }
