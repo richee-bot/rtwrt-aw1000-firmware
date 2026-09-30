@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "23ff2e69-7ff",
+      "ts": 1790760736576,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "2d7496de-0a1",
       "ts": 1790757167256,
       "type": "health",
@@ -1899,26 +1913,7 @@
         "wants": "fw v4"
       },
       "status": "approved"
-    },
-    {
-      "id": "9caa72ff-0fb",
-      "ts": 1788423820035,
-      "type": "download_fw",
-      "user": "offline",
-      "summary": "Wants FW v4",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.10.4",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790757168470
+  "updated": 1790760737503
 }
