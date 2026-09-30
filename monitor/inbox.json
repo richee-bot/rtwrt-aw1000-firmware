@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "02700ec5-9c0",
+      "ts": 1790791148778,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "rtwrt-1.tail4af42b.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "dd970a39-b57",
       "ts": 1790791131690,
       "type": "health",
@@ -1966,21 +1980,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":47,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "ff3b91e0-5be",
-      "ts": 1790105149506,
-      "type": "health",
-      "user": "root",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "HONOR BVL-N49",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790791132756
+  "updated": 1790791149614
 }
