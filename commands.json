@@ -1,0 +1,18 @@
+{
+  "commands": [
+    {
+      "id": "wifi-reload",
+      "title": "Reload Wi-Fi",
+      "detail": "Reloads both radios. Phones drop off Wi-Fi for a few seconds, then rejoin. Recommended.",
+      "command": "wifi reload",
+      "recommend": true
+    },
+    {
+      "id": "renew-modem",
+      "title": "Renew modem link",
+      "detail": "Brings the mobile WAN interface up again. The internet address may change.",
+      "command": "ifup wwan0",
+      "recommend": false
+    }
+  ]
+}
