@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "31d1c5af-e0a",
+      "ts": 1790756828743,
+      "type": "health",
+      "user": "tayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "c3052623-54f",
       "ts": 1790756190563,
       "type": "health",
@@ -1904,19 +1918,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":64,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.08\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "e0a951a4-c69",
-      "ts": 1788423750222,
-      "type": "register",
-      "user": "offline",
-      "summary": "New user registered",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790756191521
+  "updated": 1790756829270
 }
