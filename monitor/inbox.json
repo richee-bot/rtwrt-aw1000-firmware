@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "2971e289-dd5",
+      "ts": 1790732585187,
+      "type": "download_fw",
+      "user": "Aronz777",
+      "summary": "Wants FW v5",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "8c7a0b71-020",
       "ts": 1790732582879,
       "type": "download_fw",
@@ -1845,19 +1863,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":52,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "d35a5ea5-cca",
-      "ts": 1787463081749,
-      "type": "register",
-      "user": "deepstroyer",
-      "summary": "New user registered",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790732583693
+  "updated": 1790732586589
 }
