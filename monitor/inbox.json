@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "152cc18f-e39",
+      "ts": 1790848523956,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 61°C · SSD —",
+      "device": "OPPO CPH2639",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":61,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "61e2a9e1-f9b",
       "ts": 1790825386934,
       "type": "health",
@@ -1947,26 +1961,7 @@
         "wants": "app 1.10.5"
       },
       "status": "approved"
-    },
-    {
-      "id": "09171c9e-0c5",
-      "ts": 1790679251530,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.10.5 (app-1.10.5)",
-      "device": "nubia NX729J",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.10.5",
-        "app_tag": "app-1.10.5",
-        "fw_ver": "v5",
-        "wants": "app 1.10.5"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790825387657
+  "updated": 1790848524829
 }
