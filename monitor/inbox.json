@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "96d506ed-83f",
+      "ts": 1790856428280,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 1.12.1 (app-1.12.1)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.12.1",
+        "app_tag": "app-1.12.1",
+        "fw_ver": "v5",
+        "wants": "app 1.12.1"
+      }
+    },
+    {
       "id": "4f54e220-59c",
       "ts": 1790852272792,
       "type": "health",
@@ -1939,26 +1957,7 @@
         "wants": "app 1.11.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "b76c42d4-ca2",
-      "ts": 1790680360368,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.11.0 (app-1.11.0)",
-      "device": "nubia NX729J",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.0",
-        "app_tag": "app-1.11.0",
-        "fw_ver": "v5",
-        "wants": "app 1.11.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790852274748
+  "updated": 1790856429077
 }
