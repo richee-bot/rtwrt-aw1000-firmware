@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "be7d6ef3-12b",
+      "ts": 1790856461050,
+      "type": "download_fw",
+      "user": "Kert_koben",
+      "summary": "Wants FW v5",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5",
+        "wants": "fw v5"
+      }
+    },
+    {
       "id": "18fa47a6-947",
       "ts": 1790856451736,
       "type": "download_fw",
@@ -1941,21 +1959,7 @@
         "wants": "app 1.11.0"
       },
       "status": "rejected"
-    },
-    {
-      "id": "383cce3c-d3b",
-      "ts": 1790680747254,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.11.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790856452483
+  "updated": 1790856462590
 }
