@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "426f8ba1-691",
+      "ts": 1790850304083,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "0e1b35fb-2ca",
       "ts": 1790848558204,
       "type": "health",
@@ -1942,21 +1956,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "ea742b43-231",
-      "ts": 1790679634579,
-      "type": "health",
-      "user": "OfflineeMode",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
-      "device": "HONOR DNP-NX9",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790848558861
+  "updated": 1790850304846
 }
