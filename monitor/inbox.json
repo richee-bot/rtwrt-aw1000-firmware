@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "4f54e220-59c",
+      "ts": 1790852272792,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "efcfdc10-79a",
       "ts": 1790852251614,
       "type": "health",
@@ -1944,21 +1958,7 @@
         "wants": "app 1.11.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "44dc3d33-470",
-      "ts": 1790680165161,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790852252616
+  "updated": 1790852274748
 }
