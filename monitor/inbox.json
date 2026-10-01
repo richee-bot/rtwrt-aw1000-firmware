@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "96edf389-512",
+      "ts": 1790856465566,
+      "type": "download_fw",
+      "user": "Kert_koben",
+      "summary": "Wants FW v5.1",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.11.2",
+        "app_tag": "",
+        "fw_ver": "v5.1",
+        "wants": "fw v5.1"
+      }
+    },
+    {
       "id": "be7d6ef3-12b",
       "ts": 1790856461050,
       "type": "download_fw",
@@ -1940,26 +1958,7 @@
         "wants": "app 1.11.0"
       },
       "status": "rejected"
-    },
-    {
-      "id": "fbdfb256-a44",
-      "ts": 1790681307492,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.11.0 (app-1.11.0)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.0",
-        "app_tag": "app-1.11.0",
-        "fw_ver": "v5",
-        "wants": "app 1.11.0"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790856462590
+  "updated": 1790856466698
 }
