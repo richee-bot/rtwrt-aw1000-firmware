@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "efcfdc10-79a",
+      "ts": 1790852251614,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "426f8ba1-691",
       "ts": 1790850304083,
       "type": "health",
@@ -1944,19 +1958,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "d30b46f4-447",
-      "ts": 1790680148191,
-      "type": "register",
-      "user": "Kert_koben",
-      "summary": "New user registered",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1790850304846
+  "updated": 1790852252616
 }
