@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "22bdd592-74a",
+      "ts": 1790856480201,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 63°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":63,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1016,\"load\":\"0.44\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "96edf389-512",
       "ts": 1790856465566,
       "type": "download_fw",
@@ -1939,26 +1953,7 @@
         "wants": "app 1.11.0"
       },
       "status": "rejected"
-    },
-    {
-      "id": "e158dbc3-f81",
-      "ts": 1790681315941,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.11.0 (app-1.11.0)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.0",
-        "app_tag": "app-1.11.0",
-        "fw_ver": "v5",
-        "wants": "app 1.11.0"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790856466698
+  "updated": 1790856481049
 }
