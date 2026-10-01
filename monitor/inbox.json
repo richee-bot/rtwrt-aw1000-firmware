@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "61e2a9e1-f9b",
+      "ts": 1790825386934,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "391612a9-5da",
       "ts": 1790810204254,
       "type": "health",
@@ -1952,21 +1966,7 @@
         "wants": "app 1.10.5"
       },
       "status": "approved"
-    },
-    {
-      "id": "e7ef5384-814",
-      "ts": 1790678912705,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790810204880
+  "updated": 1790825387657
 }
