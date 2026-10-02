@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "888fe969-6ae",
+      "ts": 1790903826361,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 1.12.1 (app-1.12.1)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "1.12.1",
+        "app_tag": "app-1.12.1",
+        "fw_ver": "v5",
+        "wants": "app 1.12.1"
+      }
+    },
+    {
       "id": "5a76d993-0a6",
       "ts": 1790903808419,
       "type": "health",
@@ -1917,26 +1935,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "10178564-aba",
-      "ts": 1790682456923,
-      "type": "download_app",
-      "user": "deepstroyer",
-      "summary": "Wants APP 1.11.0 (app-1.11.0)",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.0",
-        "app_tag": "app-1.11.0",
-        "fw_ver": "v4",
-        "wants": "app 1.11.0"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790903810413
+  "updated": 1790903827104
 }
