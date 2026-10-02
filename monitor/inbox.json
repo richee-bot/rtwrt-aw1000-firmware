@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "e7f9b865-1a7",
+      "ts": 1790975085273,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 51°C · SSD —",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":51,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.15\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "fed9bf42-2e9",
       "ts": 1790974200353,
       "type": "download_app",
@@ -1924,21 +1938,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "3c4226a9-0be",
-      "ts": 1790683218909,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790974201081
+  "updated": 1790975086974
 }
