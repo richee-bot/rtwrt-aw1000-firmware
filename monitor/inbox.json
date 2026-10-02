@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "b77d1520-3a4",
+      "ts": 1790976321231,
+      "type": "register",
+      "user": "deepstroyer",
+      "summary": "New user registered",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "b156380e-d3e",
       "ts": 1790975652599,
       "type": "health",
@@ -1914,26 +1925,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "71f82d14-fc3",
-      "ts": 1790683972494,
-      "type": "download_app",
-      "user": "Aronz777",
-      "summary": "Wants APP 1.11.2 (app-1.11.2)",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.2",
-        "app_tag": "app-1.11.2",
-        "fw_ver": "v4",
-        "wants": "app 1.11.2"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1790975654249
+  "updated": 1790976321916
 }
