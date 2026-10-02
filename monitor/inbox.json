@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "5da0c447-2f9",
+      "ts": 1790942069066,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "c89005d2-7f1",
       "ts": 1790941944761,
       "type": "health",
@@ -1925,26 +1939,7 @@
         "wants": "fw v4"
       },
       "status": "rejected"
-    },
-    {
-      "id": "a036d77a-037",
-      "ts": 1790682606411,
-      "type": "download_fw",
-      "user": "deepstroyer",
-      "summary": "Wants FW v4",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.10.4",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1790941946969
+  "updated": 1790942070421
 }
