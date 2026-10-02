@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "78ea30dd-1d6",
+      "ts": 1790975630860,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "e7f9b865-1a7",
       "ts": 1790975085273,
       "type": "health",
@@ -1924,21 +1938,7 @@
         "wants": "app 1.11.2"
       },
       "status": "approved"
-    },
-    {
-      "id": "ab210242-7a5",
-      "ts": 1790683947049,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "OPPO CPH2639",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790975086974
+  "updated": 1790975631690
 }
