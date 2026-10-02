@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "bd0348fd-4c2",
+      "ts": 1790925840617,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · rtwrt.tailb43e43.ts.net · CPU 68°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":68,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"24\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "888fe969-6ae",
       "ts": 1790903826361,
       "type": "download_app",
@@ -1921,21 +1935,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "2548bed5-462",
-      "ts": 1790682506198,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.11.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1790903827104
+  "updated": 1790925841664
 }
