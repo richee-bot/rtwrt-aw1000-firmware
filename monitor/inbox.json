@@ -98,14 +98,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5.1",
         "wants": "fw v5.1"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "bb6dabb7-860",
@@ -116,14 +117,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "22bdd592-74a",
@@ -148,14 +150,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5.1",
         "wants": "fw v5.1"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "be7d6ef3-12b",
@@ -166,14 +169,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "18fa47a6-947",
@@ -184,14 +188,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5.1",
         "wants": "fw v5.1"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "a9c764f2-5bf",
@@ -202,14 +207,15 @@
       "device": "HONOR MTN-NX1",
       "app": "1.11.2",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "fw",
         "app_ver": "1.11.2",
         "app_tag": "",
         "fw_ver": "v5",
         "wants": "fw v5"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "96d506ed-83f",
@@ -1940,5 +1946,5 @@
       }
     }
   ],
-  "updated": 1790941916460
+  "updated": 1790941924282
 }
