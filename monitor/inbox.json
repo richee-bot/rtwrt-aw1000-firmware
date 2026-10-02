@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "5a76d993-0a6",
+      "ts": 1790903808419,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "daeb08e4-922",
       "ts": 1790897144990,
       "type": "health",
@@ -1922,21 +1936,7 @@
         "wants": "app 1.11.0"
       },
       "status": "rejected"
-    },
-    {
-      "id": "6d641e5a-f69",
-      "ts": 1790682443241,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 53°C · SSD —",
-      "device": "samsung SM-S928B",
-      "app": "1.10.4",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":53,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1790897146856
+  "updated": 1790903810413
 }
