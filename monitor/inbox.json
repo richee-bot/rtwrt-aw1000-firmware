@@ -379,7 +379,8 @@
       "device": "Xiaomi 25057RN09G",
       "app": "1.12.0",
       "host": "192.168.1.1",
-      "read": false
+      "read": true,
+      "status": "approved"
     },
     {
       "id": "c5c25c9c-cb2",
@@ -1939,5 +1940,5 @@
       }
     }
   ],
-  "updated": 1790941902904
+  "updated": 1790941916460
 }
