@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "90e567a4-8ea",
+      "ts": 1791071325806,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "461b0f6d-b25",
       "ts": 1791071285177,
       "type": "health",
@@ -1890,21 +1904,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "3ebef7c5-a34",
-      "ts": 1790717932037,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1791071286665
+  "updated": 1791071326618
 }
