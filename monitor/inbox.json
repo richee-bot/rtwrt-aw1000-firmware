@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "fead3921-780",
+      "ts": 1791071417622,
+      "type": "register",
+      "user": "Kert_koben",
+      "summary": "New user registered",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "d2a6ee2f-ef0",
       "ts": 1791071383837,
       "type": "health",
@@ -1890,21 +1901,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.10\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "1aa4dd34-8c6",
-      "ts": 1790718035708,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1000,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1791071384364
+  "updated": 1791071418399
 }
