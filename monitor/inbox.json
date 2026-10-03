@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "4505a404-f98",
+      "ts": 1791069703058,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "28f9eaa1-4b6",
       "ts": 1791068964293,
       "type": "health",
@@ -1898,26 +1912,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.55\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "cf6bf76d-244",
-      "ts": 1790689554618,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.11.2 (app-1.11.2)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.2",
-        "app_tag": "app-1.11.2",
-        "fw_ver": "v5",
-        "wants": "app 1.11.2"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791068964792
+  "updated": 1791069704078
 }
