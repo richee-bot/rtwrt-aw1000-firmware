@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "888a8087-2cf",
+      "ts": 1791068427709,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
+      "device": "HONOR MTN-NX1",
+      "app": "1.11.2",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "7dbf9987-726",
       "ts": 1791001780888,
       "type": "health",
@@ -1903,21 +1917,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "e963e995-978",
-      "ts": 1790684364456,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1791001781558
+  "updated": 1791068428532
 }
