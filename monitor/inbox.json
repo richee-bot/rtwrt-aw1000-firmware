@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "28f9eaa1-4b6",
+      "ts": 1791068964293,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "rtwrt.tailb43e43.ts.net",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "21492f14-090",
       "ts": 1791068727106,
       "type": "health",
@@ -1903,21 +1917,7 @@
         "wants": "app 1.11.2"
       },
       "status": "approved"
-    },
-    {
-      "id": "337aebaa-faf",
-      "ts": 1790689534865,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1791068727804
+  "updated": 1791068964792
 }
