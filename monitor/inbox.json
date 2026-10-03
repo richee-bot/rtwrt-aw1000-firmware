@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "427e96c7-c7c",
+      "ts": 1791071278032,
+      "type": "register",
+      "user": "Kert_koben",
+      "summary": "New user registered",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "c19b552e-8c0",
       "ts": 1791069819736,
       "type": "health",
@@ -1893,26 +1904,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "139fd0b1-8c4",
-      "ts": 1790689692263,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.11.2 (app-1.11.2)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.10.5",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.11.2",
-        "app_tag": "app-1.11.2",
-        "fw_ver": "v5",
-        "wants": "app 1.11.2"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791069820456
+  "updated": 1791071278556
 }
