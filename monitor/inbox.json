@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "022ce91f-e6c",
+      "ts": 1791072501936,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "1665d5cc-5b5",
       "ts": 1791072493782,
       "type": "register",
@@ -1884,21 +1898,7 @@
         "wants": "fw v5"
       },
       "status": "approved"
-    },
-    {
-      "id": "efad8a4e-030",
-      "ts": 1790727991628,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 62°C · SSD —",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1791072494650
+  "updated": 1791072502949
 }
