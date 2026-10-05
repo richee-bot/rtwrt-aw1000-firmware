@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "6280e711-791",
+      "ts": 1791188908940,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "b1fd6f3a-8bd",
       "ts": 1791152021019,
       "type": "health",
@@ -1824,21 +1838,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":68,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.67\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "6a53be02-1fd",
-      "ts": 1790741632927,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE · VPN unreachable — open Tailscale app?",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1791152021834
+  "updated": 1791188909733
 }
