@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "906ecd1f-500",
+      "ts": 1791289235701,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "c2c2b87e-17f",
       "ts": 1791201597916,
       "type": "health",
@@ -1819,26 +1833,7 @@
         "wants": "fw v5"
       },
       "status": "rejected"
-    },
-    {
-      "id": "35dea241-422",
-      "ts": 1790741827227,
-      "type": "download_fw",
-      "user": "Kert_koben",
-      "summary": "Wants FW v5",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5",
-        "wants": "fw v5"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1791201598944
+  "updated": 1791289236856
 }
