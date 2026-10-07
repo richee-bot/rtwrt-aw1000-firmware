@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "8567ab34-8d1",
+      "ts": 1791410119321,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "906ecd1f-500",
       "ts": 1791289235701,
       "type": "health",
@@ -1814,26 +1828,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":62,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":960,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "7631d26b-dfe",
-      "ts": 1790741829294,
-      "type": "download_fw",
-      "user": "Kert_koben",
-      "summary": "Wants FW v5",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5",
-        "wants": "fw v5"
-      },
-      "status": "rejected"
     }
   ],
-  "updated": 1791289236856
+  "updated": 1791410120092
 }
