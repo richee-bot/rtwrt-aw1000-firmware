@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "8cb5bc03-fe2",
+      "ts": 1791491596244,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "25d400ad-cd5",
       "ts": 1791466950964,
       "type": "health",
@@ -1804,21 +1818,7 @@
         "wants": "fw v5"
       },
       "status": "approved"
-    },
-    {
-      "id": "12cb10af-d2b",
-      "ts": 1790754094958,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":800,\"load\":\"0.00\",\"cpu_mhz\":1843,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"30\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1791466951763
+  "updated": 1791491597203
 }
