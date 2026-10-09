@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "9b0f6754-829",
+      "ts": 1791541793494,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "122849ae-aef",
       "ts": 1791538334271,
       "type": "health",
@@ -1789,26 +1803,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "1fbc7741-7c0",
-      "ts": 1790754147330,
-      "type": "download_fw",
-      "user": "Aronz777",
-      "summary": "Wants FW v5",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5",
-        "wants": "fw v5"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791538335893
+  "updated": 1791541810138
 }
