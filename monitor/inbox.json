@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "be994051-3d9",
+      "ts": 1791556597277,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "f7b971da-a93",
       "ts": 1791555997707,
       "type": "health",
@@ -1784,26 +1798,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "691b6801-a25",
-      "ts": 1790754149752,
-      "type": "download_fw",
-      "user": "Aronz777",
-      "summary": "Wants FW v4",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v4",
-        "wants": "fw v4"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791556011806
+  "updated": 1791556601231
 }
