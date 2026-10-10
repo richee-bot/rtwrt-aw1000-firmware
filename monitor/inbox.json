@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "654280f4-a88",
+      "ts": 1791601352864,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "b2d38ddd-ca5",
       "ts": 1791601069429,
       "type": "health",
@@ -1779,26 +1793,7 @@
         "wants": "fw v4"
       },
       "status": "approved"
-    },
-    {
-      "id": "32c9d30f-530",
-      "ts": 1790755016164,
-      "type": "download_fw",
-      "user": "tayu",
-      "summary": "Wants FW v5",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5",
-        "wants": "fw v5"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791601070789
+  "updated": 1791601354260
 }
