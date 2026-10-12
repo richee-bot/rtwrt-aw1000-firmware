@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "f269c4a3-af0",
+      "ts": 1791766445010,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "02149023-497",
       "ts": 1791766001251,
       "type": "health",
@@ -1776,21 +1790,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.05\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "c4207c1b-d37",
-      "ts": 1790755949713,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE · 192.168.1.1 · CPU 59°C · SSD —",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":59,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1791766002895
+  "updated": 1791766446384
 }
