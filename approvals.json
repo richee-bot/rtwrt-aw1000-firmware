@@ -34,6 +34,7 @@
     "kert_koben"
   ],
   "app:1.12.1": [
-    "kert_koben"
+    "kert_koben",
+    "deepstroyer"
   ]
 }
