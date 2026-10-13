@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "d33910c4-8a2",
+      "ts": 1791928254640,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "80781f38-35c",
       "ts": 1791928246118,
       "type": "health",
@@ -1776,26 +1794,7 @@
         "wants": "fw v5.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "949d939e-5db",
-      "ts": 1790770211932,
-      "type": "download_fw",
-      "user": "tayu",
-      "summary": "Wants FW v5",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5",
-        "wants": "fw v5"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791928247243
+  "updated": 1791928255570
 }
