@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "4bd0aec3-e90",
+      "ts": 1791933281105,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "bde6a6b3-988",
       "ts": 1791928544100,
       "type": "download_app",
@@ -1775,26 +1793,7 @@
         "wants": "app 1.12.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "4cabb444-f60",
-      "ts": 1790775915450,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.12.0 (app-1.12.0)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.0",
-        "app_tag": "app-1.12.0",
-        "fw_ver": "v5",
-        "wants": "app 1.12.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791928545191
+  "updated": 1791933281862
 }
