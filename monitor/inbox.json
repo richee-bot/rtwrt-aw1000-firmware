@@ -9,14 +9,15 @@
       "device": "nubia NX729J",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "055069ef-0e2",
@@ -27,14 +28,15 @@
       "device": "nubia NX729J",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "approved"
     },
     {
       "id": "cef76f9c-a0c",
@@ -1795,5 +1797,5 @@
       "status": "approved"
     }
   ],
-  "updated": 1791928461293
+  "updated": 1791928475858
 }
