@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "50c8d966-6c7",
+      "ts": 1791894758634,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "Xiaomi M2012K11AG",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "07e856d7-6f7",
       "ts": 1791887225653,
       "type": "health",
@@ -1781,21 +1795,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.07\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "23ff2e69-7ff",
-      "ts": 1790760736576,
-      "type": "health",
-      "user": "tayu",
-      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1791887227216
+  "updated": 1791894759061
 }
