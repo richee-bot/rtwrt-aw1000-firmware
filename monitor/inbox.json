@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "bde6a6b3-988",
+      "ts": 1791928544100,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "da1ef117-91c",
       "ts": 1791928460344,
       "type": "download_app",
@@ -1776,26 +1794,7 @@
         "wants": "app 1.12.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "a7b5ac6e-0e8",
-      "ts": 1790775870093,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.12.0 (app-1.12.0)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.0",
-        "app_tag": "app-1.12.0",
-        "fw_ver": "v5",
-        "wants": "app 1.12.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791928475858
+  "updated": 1791928545191
 }
