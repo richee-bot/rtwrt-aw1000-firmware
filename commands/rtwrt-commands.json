@@ -1,6 +1,6 @@
 [
   {
-    "id": "Passwall Fail to load after Reboot? Run This",
+    "id": "Passwall-Auto-Enable",
     "name": "Auto Enable Passwall",
     "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
     "detail": "Enable Passwall after autoschedule Reboot."
