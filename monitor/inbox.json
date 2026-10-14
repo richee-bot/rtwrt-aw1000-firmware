@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "0c6e1fe7-3e4",
+      "ts": 1791964517967,
+      "type": "download_app",
+      "user": "RiduanWan",
+      "summary": "Wants APP 2.0.1 (app-2.0.1)",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.1",
+        "app_tag": "app-2.0.1",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.1"
+      }
+    },
+    {
       "id": "11fcb4e9-b30",
       "ts": 1791964510883,
       "type": "health",
@@ -1760,26 +1778,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "e3164d97-f3a",
-      "ts": 1790776064063,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.12.0 (app-1.12.0)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.0",
-        "app_tag": "app-1.12.0",
-        "fw_ver": "v5",
-        "wants": "app 1.12.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791964511584
+  "updated": 1791964518587
 }
