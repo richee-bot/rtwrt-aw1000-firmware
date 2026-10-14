@@ -26,9 +26,9 @@
       "user": "tayu",
       "package": "Adguard-Home",
       "note": "",
-      "status": "coffee",
+      "status": "accepted",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/ipk-Adguard-Home\/upload.ipk",
-      "updated": 1790691610592
+      "updated": 1792002242741
     },
     {
       "id": "88446c4b-aa5",
@@ -91,5 +91,5 @@
       "updated": 1784382466577
     }
   ],
-  "updated": 1792002239219
+  "updated": 1792002242741
 }
