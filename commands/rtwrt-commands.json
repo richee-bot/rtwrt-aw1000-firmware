@@ -54,15 +54,9 @@
     "detail": "Displays system uptime, memory usage, and flash storage."
   },
   {
-    "id": "Passwall Fail to load after Reboot? Run This",
-    "name": "Auto Enable Passwall",
-    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
-    "detail": "Enable Passwall after autoschedule Reboot."
-  },
-  {
     "id": "cmd_1791998564793",
     "name": "Passwall Fail to Load After Reboot - Run This 🔥",
-    "command": "sed -i '/exit 0/i sleep 10\\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
+    "command": "printf 'sleep 5\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null\nexit 0\n' > /etc/rc.local",
     "detail": "Custom command created in RTWRT app"
   }
 ]
