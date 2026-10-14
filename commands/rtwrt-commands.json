@@ -1,11 +1,5 @@
 [
   {
-    "id": "Passwall Fail after Reboot? Run This",
-    "name": "Auto Reload Passwall",
-    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
-    "detail": "Reloads Passwall after autoschedule Reboot."
-  },
-  {
     "id": "wifi-reload",
     "name": "Reload Wi-Fi Radios",
     "command": "wifi reload",
@@ -64,5 +58,11 @@
     "name": "Auto Enable Passwall",
     "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
     "detail": "Enable Passwall after autoschedule Reboot."
+  },
+  {
+    "id": "cmd_1791998564793",
+    "name": "Passwall Fail to Load After Reboot - Run This 🔥",
+    "command": "sed -i '/exit 0/i sleep 10\\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
+    "detail": "Custom command created in RTWRT app"
   }
 ]
