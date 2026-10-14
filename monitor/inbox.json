@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "6b286b08-aca",
+      "ts": 1792014565504,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "3b68762c-976",
       "ts": 1792014548401,
       "type": "health",
@@ -1791,19 +1809,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "7e4320db-0ac",
-      "ts": 1790806398477,
-      "type": "register",
-      "user": "RiduanWan",
-      "summary": "New user registered",
-      "device": "Xiaomi 25057RN09G",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1792014549846
+  "updated": 1792014566111
 }
