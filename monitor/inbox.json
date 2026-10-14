@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "47573378-e76",
+      "ts": 1791975038781,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "58b8b3df-7cf",
       "ts": 1791975036842,
       "type": "health",
@@ -1770,21 +1788,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "dd970a39-b57",
-      "ts": 1790791131690,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: OFFLINE Â· VPN unreachable â open Tailscale app?",
-      "device": "nubia NX729J",
-      "app": "1.12.1",
-      "host": "rtwrt-1.tail4af42b.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1791975037503
+  "updated": 1791975042319
 }
