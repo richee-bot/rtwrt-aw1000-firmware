@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "badbc5a9-eb9",
+      "ts": 1791974181895,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "8492990f-a7e",
       "ts": 1791973752180,
       "type": "download_app",
@@ -1767,26 +1781,7 @@
         "wants": "fw v5.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "f2f63917-598",
-      "ts": 1790784123174,
-      "type": "download_fw",
-      "user": "RiduanWan",
-      "summary": "Wants FW v5.1",
-      "device": "Xiaomi M2012K11AG",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.12.0",
-        "app_tag": "",
-        "fw_ver": "v5.1",
-        "wants": "fw v5.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791973752769
+  "updated": 1791974182702
 }
