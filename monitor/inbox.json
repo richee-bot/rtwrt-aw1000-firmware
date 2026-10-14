@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "8492990f-a7e",
+      "ts": 1791973752180,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "202f2ea9-919",
       "ts": 1791973745393,
       "type": "download_app",
@@ -1768,26 +1786,7 @@
         "wants": "fw v5.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "db4dd048-8f8",
-      "ts": 1790784033886,
-      "type": "download_fw",
-      "user": "RiduanWan",
-      "summary": "Wants FW v5.1",
-      "device": "Xiaomi M2012K11AG",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.12.0",
-        "app_tag": "",
-        "fw_ver": "v5.1",
-        "wants": "fw v5.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791973745905
+  "updated": 1791973752769
 }
