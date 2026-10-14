@@ -1,11 +1,5 @@
 [
   {
-    "id": "Passwall-Auto-Enable",
-    "name": "Auto Enable Passwall",
-    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
-    "detail": "Enable Passwall after autoschedule Reboot."
-  },
-  {
     "id": "wifi-reload",
     "name": "Reload Wi-Fi Radios",
     "command": "wifi reload",
@@ -58,5 +52,11 @@
     "name": "System Resources & Load",
     "command": "uptime && free -h && df -h /overlay",
     "detail": "Displays system uptime, memory usage, and flash storage."
+  },
+  {
+    "id": "Passwall Fail to load after Reboot? Run This",
+    "name": "Auto Enable Passwall",
+    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
+    "detail": "Enable Passwall after autoschedule Reboot."
   }
 ]
