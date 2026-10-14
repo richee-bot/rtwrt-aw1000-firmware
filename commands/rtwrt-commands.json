@@ -1,5 +1,11 @@
 [
   {
+    "id": "Passwall Fail after Reboot? Run This",
+    "name": "Auto Reload Passwall",
+    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
+    "detail": "Reloads Passwall after autoschedule Reboot."
+  },
+  {
     "id": "wifi-reload",
     "name": "Reload Wi-Fi Radios",
     "command": "wifi reload",
