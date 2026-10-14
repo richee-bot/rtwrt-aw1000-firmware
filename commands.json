@@ -1,5 +1,12 @@
 [
   {
+    "id": "Passwall Fail after Reboot? Run This",
+    "name": "Auto Reload Passwall",
+    "command": "Sed -i '/start_service() {/a \    chmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/init.d/passwall
+/etc/init.d/passwall",
+    "detail": "Reloads both MediaTek MT7976 5GHz and 2.4GHz Wi-Fi radios."
+  },
+  {
     "id": "wifi-reload",
     "name": "Reload Wi-Fi Radios",
     "command": "wifi reload",
