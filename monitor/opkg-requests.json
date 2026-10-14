@@ -16,9 +16,9 @@
       "user": "richeetayu",
       "package": "SmartDNS",
       "note": "smartdns 46.1 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "status": "pending",
+      "status": "accepted",
       "ipk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/apk-SmartDNS\/smartdns-46.1-r1.apk",
-      "updated": 1790797208320
+      "updated": 1792002246116
     },
     {
       "id": "7600c9f8-697",
@@ -91,5 +91,5 @@
       "updated": 1784382466577
     }
   ],
-  "updated": 1792002242741
+  "updated": 1792002246116
 }
