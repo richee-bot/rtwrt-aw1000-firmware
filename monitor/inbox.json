@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "dc5765bd-4af",
+      "ts": 1792015093821,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 60°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":992,\"load\":\"0.49\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "be45540d-532",
       "ts": 1792014894422,
       "type": "download_app",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "391612a9-5da",
-      "ts": 1790810204254,
-      "type": "health",
-      "user": "RiduanWan",
-      "summary": "health: OFFLINE Â· Set Tailscale host in Settings",
-      "device": "Xiaomi 25057RN09G",
-      "app": "1.12.1",
-      "host": "",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792014895126
+  "updated": 1792015148015
 }
