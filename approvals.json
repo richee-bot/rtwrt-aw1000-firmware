@@ -46,5 +46,1397 @@
   ],
   "fw:v6.1": [
     "*"
+  ],
+  "ipk:*": [
+    "*"
+  ],
+  "ipk:ath11k-firmware-ipq8074": [
+    "*"
+  ],
+  "ipk:attr": [
+    "*"
+  ],
+  "ipk:autocore-arm": [
+    "*"
+  ],
+  "ipk:avahi-dbus-daemon": [
+    "*"
+  ],
+  "ipk:base-files": [
+    "*"
+  ],
+  "ipk:bash": [
+    "*"
+  ],
+  "ipk:bc": [
+    "*"
+  ],
+  "ipk:block-mount": [
+    "*"
+  ],
+  "ipk:boost-program": [
+    "*"
+  ],
+  "ipk:boost-system": [
+    "*"
+  ],
+  "ipk:boost": [
+    "*"
+  ],
+  "ipk:btrfs-progs": [
+    "*"
+  ],
+  "ipk:busybox": [
+    "*"
+  ],
+  "ipk:bzip2": [
+    "*"
+  ],
+  "ipk:ca-bundle": [
+    "*"
+  ],
+  "ipk:cgi-io": [
+    "*"
+  ],
+  "ipk:chat": [
+    "*"
+  ],
+  "ipk:chinadns-ng": [
+    "*"
+  ],
+  "ipk:cloudflared": [
+    "*"
+  ],
+  "ipk:collectd-mod-cpu": [
+    "*"
+  ],
+  "ipk:collectd-mod-interface": [
+    "*"
+  ],
+  "ipk:collectd-mod-iwinfo": [
+    "*"
+  ],
+  "ipk:collectd-mod-load": [
+    "*"
+  ],
+  "ipk:collectd-mod-memory": [
+    "*"
+  ],
+  "ipk:collectd-mod-network": [
+    "*"
+  ],
+  "ipk:collectd-mod-rrdtool": [
+    "*"
+  ],
+  "ipk:collectd": [
+    "*"
+  ],
+  "ipk:comgt": [
+    "*"
+  ],
+  "ipk:coreutils-base64": [
+    "*"
+  ],
+  "ipk:coreutils-nohup": [
+    "*"
+  ],
+  "ipk:coreutils-stat": [
+    "*"
+  ],
+  "ipk:coreutils": [
+    "*"
+  ],
+  "ipk:curl": [
+    "*"
+  ],
+  "ipk:dbus": [
+    "*"
+  ],
+  "ipk:dns2socks": [
+    "*"
+  ],
+  "ipk:dns2tcp": [
+    "*"
+  ],
+  "ipk:dnsmasq-full": [
+    "*"
+  ],
+  "ipk:dosfstools": [
+    "*"
+  ],
+  "ipk:dropbear": [
+    "*"
+  ],
+  "ipk:ds-lite": [
+    "*"
+  ],
+  "ipk:e2fsprogs": [
+    "*"
+  ],
+  "ipk:etherwake": [
+    "*"
+  ],
+  "ipk:ethtool-full": [
+    "*"
+  ],
+  "ipk:exfat-fsck": [
+    "*"
+  ],
+  "ipk:exfat-mkfs": [
+    "*"
+  ],
+  "ipk:f2fs-tools": [
+    "*"
+  ],
+  "ipk:f2fsck": [
+    "*"
+  ],
+  "ipk:fdisk": [
+    "*"
+  ],
+  "ipk:firewall4": [
+    "*"
+  ],
+  "ipk:fstools": [
+    "*"
+  ],
+  "ipk:fwtool": [
+    "*"
+  ],
+  "ipk:gdisk": [
+    "*"
+  ],
+  "ipk:geoview": [
+    "*"
+  ],
+  "ipk:getrandom": [
+    "*"
+  ],
+  "ipk:haproxy": [
+    "*"
+  ],
+  "ipk:hd-idle": [
+    "*"
+  ],
+  "ipk:hostapd-common": [
+    "*"
+  ],
+  "ipk:htop": [
+    "*"
+  ],
+  "ipk:inotifywait": [
+    "*"
+  ],
+  "ipk:ip-full": [
+    "*"
+  ],
+  "ipk:ipq-wifi-arcadyan": [
+    "*"
+  ],
+  "ipk:iptables-mod-ipopt": [
+    "*"
+  ],
+  "ipk:iptables-nft": [
+    "*"
+  ],
+  "ipk:iwinfo": [
+    "*"
+  ],
+  "ipk:iw": [
+    "*"
+  ],
+  "ipk:jansson4": [
+    "*"
+  ],
+  "ipk:jq": [
+    "*"
+  ],
+  "ipk:jshn": [
+    "*"
+  ],
+  "ipk:jsonfilter": [
+    "*"
+  ],
+  "ipk:kernel": [
+    "*"
+  ],
+  "ipk:kmod-ata-ahci": [
+    "*"
+  ],
+  "ipk:kmod-ata-core": [
+    "*"
+  ],
+  "ipk:kmod-ath11k-ahb": [
+    "*"
+  ],
+  "ipk:kmod-ath11k": [
+    "*"
+  ],
+  "ipk:kmod-ath": [
+    "*"
+  ],
+  "ipk:kmod-cfg80211": [
+    "*"
+  ],
+  "ipk:kmod-crypto-acompress": [
+    "*"
+  ],
+  "ipk:kmod-crypto-aead": [
+    "*"
+  ],
+  "ipk:kmod-crypto-blake2b": [
+    "*"
+  ],
+  "ipk:kmod-crypto-ccm": [
+    "*"
+  ],
+  "ipk:kmod-crypto-cmac": [
+    "*"
+  ],
+  "ipk:kmod-crypto-crc32c": [
+    "*"
+  ],
+  "ipk:kmod-crypto-crc32": [
+    "*"
+  ],
+  "ipk:kmod-crypto-ctr": [
+    "*"
+  ],
+  "ipk:kmod-crypto-gcm": [
+    "*"
+  ],
+  "ipk:kmod-crypto-geniv": [
+    "*"
+  ],
+  "ipk:kmod-crypto-gf128": [
+    "*"
+  ],
+  "ipk:kmod-crypto-ghash": [
+    "*"
+  ],
+  "ipk:kmod-crypto-hash": [
+    "*"
+  ],
+  "ipk:kmod-crypto-hmac": [
+    "*"
+  ],
+  "ipk:kmod-crypto-kpp": [
+    "*"
+  ],
+  "ipk:kmod-crypto-lib-chacha20poly1305": [
+    "*"
+  ],
+  "ipk:kmod-crypto-lib-chacha20": [
+    "*"
+  ],
+  "ipk:kmod-crypto-lib-curve25519": [
+    "*"
+  ],
+  "ipk:kmod-crypto-lib-poly1305": [
+    "*"
+  ],
+  "ipk:kmod-crypto-manager": [
+    "*"
+  ],
+  "ipk:kmod-crypto-michael-mic": [
+    "*"
+  ],
+  "ipk:kmod-crypto-null": [
+    "*"
+  ],
+  "ipk:kmod-crypto-rng": [
+    "*"
+  ],
+  "ipk:kmod-crypto-seqiv": [
+    "*"
+  ],
+  "ipk:kmod-crypto-sha3": [
+    "*"
+  ],
+  "ipk:kmod-crypto-sha512": [
+    "*"
+  ],
+  "ipk:kmod-crypto-xxhash": [
+    "*"
+  ],
+  "ipk:kmod-fs-btrfs": [
+    "*"
+  ],
+  "ipk:kmod-fs-exfat": [
+    "*"
+  ],
+  "ipk:kmod-fs-ext4": [
+    "*"
+  ],
+  "ipk:kmod-fs-f2fs": [
+    "*"
+  ],
+  "ipk:kmod-fs-ntfs3": [
+    "*"
+  ],
+  "ipk:kmod-fs-vfat": [
+    "*"
+  ],
+  "ipk:kmod-fuse": [
+    "*"
+  ],
+  "ipk:kmod-gpio-button-hotplug": [
+    "*"
+  ],
+  "ipk:kmod-gpio-nxp-74hc164": [
+    "*"
+  ],
+  "ipk:kmod-hwmon-core": [
+    "*"
+  ],
+  "ipk:kmod-ifb": [
+    "*"
+  ],
+  "ipk:kmod-inet-diag": [
+    "*"
+  ],
+  "ipk:kmod-ip6-tunnel": [
+    "*"
+  ],
+  "ipk:kmod-ipt-core": [
+    "*"
+  ],
+  "ipk:kmod-ipt-ipopt": [
+    "*"
+  ],
+  "ipk:kmod-iptunnel6": [
+    "*"
+  ],
+  "ipk:kmod-leds-gpio": [
+    "*"
+  ],
+  "ipk:kmod-lib-crc-ccitt": [
+    "*"
+  ],
+  "ipk:kmod-lib-crc16": [
+    "*"
+  ],
+  "ipk:kmod-lib-crc32c": [
+    "*"
+  ],
+  "ipk:kmod-lib-lzo": [
+    "*"
+  ],
+  "ipk:kmod-lib-raid6": [
+    "*"
+  ],
+  "ipk:kmod-lib-xor": [
+    "*"
+  ],
+  "ipk:kmod-lib-xxhash": [
+    "*"
+  ],
+  "ipk:kmod-lib-zlib-deflate": [
+    "*"
+  ],
+  "ipk:kmod-lib-zlib-inflate": [
+    "*"
+  ],
+  "ipk:kmod-lib-zstd": [
+    "*"
+  ],
+  "ipk:kmod-libphy": [
+    "*"
+  ],
+  "ipk:kmod-mac80211": [
+    "*"
+  ],
+  "ipk:kmod-mii": [
+    "*"
+  ],
+  "ipk:kmod-netlink-diag": [
+    "*"
+  ],
+  "ipk:kmod-nf-conntrack-netlink": [
+    "*"
+  ],
+  "ipk:kmod-nf-conntrack6": [
+    "*"
+  ],
+  "ipk:kmod-nf-conntrack": [
+    "*"
+  ],
+  "ipk:kmod-nf-flow": [
+    "*"
+  ],
+  "ipk:kmod-nf-ipt": [
+    "*"
+  ],
+  "ipk:kmod-nf-log6": [
+    "*"
+  ],
+  "ipk:kmod-nf-log": [
+    "*"
+  ],
+  "ipk:kmod-nf-nat": [
+    "*"
+  ],
+  "ipk:kmod-nf-reject6": [
+    "*"
+  ],
+  "ipk:kmod-nf-reject": [
+    "*"
+  ],
+  "ipk:kmod-nf-socket": [
+    "*"
+  ],
+  "ipk:kmod-nf-tproxy": [
+    "*"
+  ],
+  "ipk:kmod-nfnetlink": [
+    "*"
+  ],
+  "ipk:kmod-nft-compat": [
+    "*"
+  ],
+  "ipk:kmod-nft-core": [
+    "*"
+  ],
+  "ipk:kmod-nft-fib": [
+    "*"
+  ],
+  "ipk:kmod-nft-nat": [
+    "*"
+  ],
+  "ipk:kmod-nft-offload": [
+    "*"
+  ],
+  "ipk:kmod-nft-socket": [
+    "*"
+  ],
+  "ipk:kmod-nft-tproxy": [
+    "*"
+  ],
+  "ipk:kmod-nls-base": [
+    "*"
+  ],
+  "ipk:kmod-nls-cp437": [
+    "*"
+  ],
+  "ipk:kmod-nls-iso8859-1": [
+    "*"
+  ],
+  "ipk:kmod-nls-utf8": [
+    "*"
+  ],
+  "ipk:kmod-nvme": [
+    "*"
+  ],
+  "ipk:kmod-phy-aquantia": [
+    "*"
+  ],
+  "ipk:kmod-pppoe": [
+    "*"
+  ],
+  "ipk:kmod-pppox": [
+    "*"
+  ],
+  "ipk:kmod-ppp": [
+    "*"
+  ],
+  "ipk:kmod-qca-nss-dp": [
+    "*"
+  ],
+  "ipk:kmod-qca-ssdk": [
+    "*"
+  ],
+  "ipk:kmod-qcom-qmi-helpers": [
+    "*"
+  ],
+  "ipk:kmod-qmi": [
+    "*"
+  ],
+  "ipk:kmod-qrtr-smd": [
+    "*"
+  ],
+  "ipk:kmod-qrtr": [
+    "*"
+  ],
+  "ipk:kmod-sched-cake": [
+    "*"
+  ],
+  "ipk:kmod-sched-core": [
+    "*"
+  ],
+  "ipk:kmod-scsi-core": [
+    "*"
+  ],
+  "ipk:kmod-slhc": [
+    "*"
+  ],
+  "ipk:kmod-spi-bitbang": [
+    "*"
+  ],
+  "ipk:kmod-spi-gpio": [
+    "*"
+  ],
+  "ipk:kmod-thermal": [
+    "*"
+  ],
+  "ipk:kmod-tun": [
+    "*"
+  ],
+  "ipk:kmod-udptunnel4": [
+    "*"
+  ],
+  "ipk:kmod-udptunnel6": [
+    "*"
+  ],
+  "ipk:kmod-usb-acm": [
+    "*"
+  ],
+  "ipk:kmod-usb-core": [
+    "*"
+  ],
+  "ipk:kmod-usb-dwc3-qcom": [
+    "*"
+  ],
+  "ipk:kmod-usb-dwc3": [
+    "*"
+  ],
+  "ipk:kmod-usb-ehci": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-asix-ax88179": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-cdc-ether": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-cdc-mbim": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-cdc-ncm": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-huawei-cdc-ncm": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-ipheth": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-qmi-wwan": [
+    "*"
+  ],
+  "ipk:kmod-usb-net-rndis": [
+    "*"
+  ],
+  "ipk:kmod-usb-net": [
+    "*"
+  ],
+  "ipk:kmod-usb-ohci": [
+    "*"
+  ],
+  "ipk:kmod-usb-serial-option": [
+    "*"
+  ],
+  "ipk:kmod-usb-serial-qualcomm": [
+    "*"
+  ],
+  "ipk:kmod-usb-serial-wwan": [
+    "*"
+  ],
+  "ipk:kmod-usb-serial": [
+    "*"
+  ],
+  "ipk:kmod-usb-storage-extras": [
+    "*"
+  ],
+  "ipk:kmod-usb-storage-uas": [
+    "*"
+  ],
+  "ipk:kmod-usb-storage": [
+    "*"
+  ],
+  "ipk:kmod-usb-wdm": [
+    "*"
+  ],
+  "ipk:kmod-usb-xhci-hcd": [
+    "*"
+  ],
+  "ipk:kmod-usb2": [
+    "*"
+  ],
+  "ipk:kmod-usb3": [
+    "*"
+  ],
+  "ipk:kmod-wireguard": [
+    "*"
+  ],
+  "ipk:krb5-libs": [
+    "*"
+  ],
+  "ipk:libacl": [
+    "*"
+  ],
+  "ipk:libatomic1": [
+    "*"
+  ],
+  "ipk:libattr": [
+    "*"
+  ],
+  "ipk:libavahi-client": [
+    "*"
+  ],
+  "ipk:libavahi-dbus-support": [
+    "*"
+  ],
+  "ipk:libblkid1": [
+    "*"
+  ],
+  "ipk:libblobmsg-json20240329": [
+    "*"
+  ],
+  "ipk:libbpf1": [
+    "*"
+  ],
+  "ipk:libbz2-1.0": [
+    "*"
+  ],
+  "ipk:libcap": [
+    "*"
+  ],
+  "ipk:libcomerr0": [
+    "*"
+  ],
+  "ipk:libcurl4": [
+    "*"
+  ],
+  "ipk:libc": [
+    "*"
+  ],
+  "ipk:libdaemon": [
+    "*"
+  ],
+  "ipk:libdbus": [
+    "*"
+  ],
+  "ipk:libe2p2": [
+    "*"
+  ],
+  "ipk:libelf1": [
+    "*"
+  ],
+  "ipk:libevdev": [
+    "*"
+  ],
+  "ipk:libexpat": [
+    "*"
+  ],
+  "ipk:libext2fs2": [
+    "*"
+  ],
+  "ipk:libf2fs6": [
+    "*"
+  ],
+  "ipk:libfdisk1": [
+    "*"
+  ],
+  "ipk:libgcc1": [
+    "*"
+  ],
+  "ipk:libgcrypt": [
+    "*"
+  ],
+  "ipk:libgmp10": [
+    "*"
+  ],
+  "ipk:libgnutls": [
+    "*"
+  ],
+  "ipk:libgpg-error": [
+    "*"
+  ],
+  "ipk:libinotifytools": [
+    "*"
+  ],
+  "ipk:libiptext-nft0": [
+    "*"
+  ],
+  "ipk:libiptext0": [
+    "*"
+  ],
+  "ipk:libiptext6-0": [
+    "*"
+  ],
+  "ipk:libiwinfo-data": [
+    "*"
+  ],
+  "ipk:libiwinfo20230701": [
+    "*"
+  ],
+  "ipk:libjson-c5": [
+    "*"
+  ],
+  "ipk:libjson-script20240329": [
+    "*"
+  ],
+  "ipk:libltdl7": [
+    "*"
+  ],
+  "ipk:liblua5.1.5": [
+    "*"
+  ],
+  "ipk:liblua5.3-5.3": [
+    "*"
+  ],
+  "ipk:liblucihttp-lua": [
+    "*"
+  ],
+  "ipk:liblucihttp-ucode": [
+    "*"
+  ],
+  "ipk:liblucihttp0": [
+    "*"
+  ],
+  "ipk:liblzma": [
+    "*"
+  ],
+  "ipk:liblzo2": [
+    "*"
+  ],
+  "ipk:libmbedtls21": [
+    "*"
+  ],
+  "ipk:libmicrohttpd-no-ssl": [
+    "*"
+  ],
+  "ipk:libmnl0": [
+    "*"
+  ],
+  "ipk:libmount1": [
+    "*"
+  ],
+  "ipk:libncurses6": [
+    "*"
+  ],
+  "ipk:libnetfilter-conntrack3": [
+    "*"
+  ],
+  "ipk:libnettle8": [
+    "*"
+  ],
+  "ipk:libnfnetlink0": [
+    "*"
+  ],
+  "ipk:libnftnl11": [
+    "*"
+  ],
+  "ipk:libnghttp2-14": [
+    "*"
+  ],
+  "ipk:libnl-tiny1": [
+    "*"
+  ],
+  "ipk:libnvme": [
+    "*"
+  ],
+  "ipk:libopenssl3": [
+    "*"
+  ],
+  "ipk:libpam": [
+    "*"
+  ],
+  "ipk:libparted": [
+    "*"
+  ],
+  "ipk:libpcre2-16": [
+    "*"
+  ],
+  "ipk:libpcre2": [
+    "*"
+  ],
+  "ipk:libpopt0": [
+    "*"
+  ],
+  "ipk:libpthread": [
+    "*"
+  ],
+  "ipk:libQt6Core": [
+    "*"
+  ],
+  "ipk:libQt6Network": [
+    "*"
+  ],
+  "ipk:libQt6Sql": [
+    "*"
+  ],
+  "ipk:libQt6Xml": [
+    "*"
+  ],
+  "ipk:libreadline8": [
+    "*"
+  ],
+  "ipk:librrd1": [
+    "*"
+  ],
+  "ipk:librt": [
+    "*"
+  ],
+  "ipk:libsmartcols1": [
+    "*"
+  ],
+  "ipk:libss2": [
+    "*"
+  ],
+  "ipk:libstdcpp6": [
+    "*"
+  ],
+  "ipk:libtasn1": [
+    "*"
+  ],
+  "ipk:libtirpc": [
+    "*"
+  ],
+  "ipk:libubox20240329": [
+    "*"
+  ],
+  "ipk:libubus-lua": [
+    "*"
+  ],
+  "ipk:libubus20250102": [
+    "*"
+  ],
+  "ipk:libuci-lua": [
+    "*"
+  ],
+  "ipk:libuci20250120": [
+    "*"
+  ],
+  "ipk:libuclient20201210": [
+    "*"
+  ],
+  "ipk:libucode20230711": [
+    "*"
+  ],
+  "ipk:libudebug": [
+    "*"
+  ],
+  "ipk:libudev-zero": [
+    "*"
+  ],
+  "ipk:liburing": [
+    "*"
+  ],
+  "ipk:libusb-1.0-0": [
+    "*"
+  ],
+  "ipk:libustream-mbedtls20201210": [
+    "*"
+  ],
+  "ipk:libuuid1": [
+    "*"
+  ],
+  "ipk:libuv1": [
+    "*"
+  ],
+  "ipk:libwebsockets-full": [
+    "*"
+  ],
+  "ipk:libxml2-16": [
+    "*"
+  ],
+  "ipk:libxtables12": [
+    "*"
+  ],
+  "ipk:libzip-openssl": [
+    "*"
+  ],
+  "ipk:libzstd": [
+    "*"
+  ],
+  "ipk:logd": [
+    "*"
+  ],
+  "ipk:losetup": [
+    "*"
+  ],
+  "ipk:lsblk": [
+    "*"
+  ],
+  "ipk:lua": [
+    "*"
+  ],
+  "ipk:luci-app-adguardhome": [
+    "*"
+  ],
+  "ipk:luci-app-cloudflared": [
+    "*"
+  ],
+  "ipk:luci-app-cpufreq": [
+    "*"
+  ],
+  "ipk:luci-app-firewall": [
+    "*"
+  ],
+  "ipk:luci-app-footstrap-cmd": [
+    "*"
+  ],
+  "ipk:luci-app-footstrap-files": [
+    "*"
+  ],
+  "ipk:luci-app-hd-idle": [
+    "*"
+  ],
+  "ipk:luci-app-mini-diskmanager": [
+    "*"
+  ],
+  "ipk:luci-app-modemdata": [
+    "*"
+  ],
+  "ipk:luci-app-netstat": [
+    "*"
+  ],
+  "ipk:luci-app-nlbwmon": [
+    "*"
+  ],
+  "ipk:luci-app-openvpn": [
+    "*"
+  ],
+  "ipk:luci-app-package-manager": [
+    "*"
+  ],
+  "ipk:luci-app-passwall2": [
+    "*"
+  ],
+  "ipk:luci-app-passwall": [
+    "*"
+  ],
+  "ipk:luci-app-qbittorrent": [
+    "*"
+  ],
+  "ipk:luci-app-qmodem-ttl": [
+    "*"
+  ],
+  "ipk:luci-app-qmodem": [
+    "*"
+  ],
+  "ipk:luci-app-ramfree": [
+    "*"
+  ],
+  "ipk:luci-app-samba4": [
+    "*"
+  ],
+  "ipk:luci-app-smartdns": [
+    "*"
+  ],
+  "ipk:luci-app-sms-tool-js": [
+    "*"
+  ],
+  "ipk:luci-app-sqm": [
+    "*"
+  ],
+  "ipk:luci-app-statistics": [
+    "*"
+  ],
+  "ipk:luci-app-ttyd": [
+    "*"
+  ],
+  "ipk:luci-app-wifischedule": [
+    "*"
+  ],
+  "ipk:luci-app-wol": [
+    "*"
+  ],
+  "ipk:luci-app-wrtbwmon": [
+    "*"
+  ],
+  "ipk:luci-base": [
+    "*"
+  ],
+  "ipk:luci-compat": [
+    "*"
+  ],
+  "ipk:luci-lib-base": [
+    "*"
+  ],
+  "ipk:luci-lib-chartjs": [
+    "*"
+  ],
+  "ipk:luci-lib-ip": [
+    "*"
+  ],
+  "ipk:luci-lib-jsonc": [
+    "*"
+  ],
+  "ipk:luci-lib-nixio": [
+    "*"
+  ],
+  "ipk:luci-lib-uqr": [
+    "*"
+  ],
+  "ipk:luci-light": [
+    "*"
+  ],
+  "ipk:luci-lua-runtime": [
+    "*"
+  ],
+  "ipk:luci-mod-admin-full": [
+    "*"
+  ],
+  "ipk:luci-mod-network": [
+    "*"
+  ],
+  "ipk:luci-mod-status": [
+    "*"
+  ],
+  "ipk:luci-mod-system": [
+    "*"
+  ],
+  "ipk:luci-proto-ipv6": [
+    "*"
+  ],
+  "ipk:luci-proto-ppp": [
+    "*"
+  ],
+  "ipk:luci-proto-wireguard": [
+    "*"
+  ],
+  "ipk:luci-theme-bootstrap": [
+    "*"
+  ],
+  "ipk:luci-theme-footstrap": [
+    "*"
+  ],
+  "ipk:luci": [
+    "*"
+  ],
+  "ipk:microsocks": [
+    "*"
+  ],
+  "ipk:mkf2fs": [
+    "*"
+  ],
+  "ipk:modemdata": [
+    "*"
+  ],
+  "ipk:mtd": [
+    "*"
+  ],
+  "ipk:ndisc6": [
+    "*"
+  ],
+  "ipk:netifd": [
+    "*"
+  ],
+  "ipk:nftables-json": [
+    "*"
+  ],
+  "ipk:nlbwmon": [
+    "*"
+  ],
+  "ipk:ntfs-3g-utils": [
+    "*"
+  ],
+  "ipk:ntfs-3g": [
+    "*"
+  ],
+  "ipk:nvme-cli": [
+    "*"
+  ],
+  "ipk:odhcp6c": [
+    "*"
+  ],
+  "ipk:odhcpd-ipv6only": [
+    "*"
+  ],
+  "ipk:oniguruma5": [
+    "*"
+  ],
+  "ipk:opennds": [
+    "*"
+  ],
+  "ipk:openssh-sftp-server": [
+    "*"
+  ],
+  "ipk:openwrt-keyring": [
+    "*"
+  ],
+  "ipk:opkg": [
+    "*"
+  ],
+  "ipk:parted": [
+    "*"
+  ],
+  "ipk:php8-cgi": [
+    "*"
+  ],
+  "ipk:php8-fastcgi": [
+    "*"
+  ],
+  "ipk:php8-fpm": [
+    "*"
+  ],
+  "ipk:php8-mod-ctype": [
+    "*"
+  ],
+  "ipk:php8-mod-fileinfo": [
+    "*"
+  ],
+  "ipk:php8-mod-iconv": [
+    "*"
+  ],
+  "ipk:php8-mod-mbstring": [
+    "*"
+  ],
+  "ipk:php8-mod-session": [
+    "*"
+  ],
+  "ipk:php8-mod-zip": [
+    "*"
+  ],
+  "ipk:php8": [
+    "*"
+  ],
+  "ipk:ppp-mod-pppoe": [
+    "*"
+  ],
+  "ipk:ppp": [
+    "*"
+  ],
+  "ipk:procd-seccomp": [
+    "*"
+  ],
+  "ipk:procd-ujail": [
+    "*"
+  ],
+  "ipk:procd": [
+    "*"
+  ],
+  "ipk:qbittorrent": [
+    "*"
+  ],
+  "ipk:qmodem": [
+    "*"
+  ],
+  "ipk:qt6-plugin-libqopensslbackend": [
+    "*"
+  ],
+  "ipk:qt6-plugin-libqsqlite": [
+    "*"
+  ],
+  "ipk:quectel-CM-5G-M": [
+    "*"
+  ],
+  "ipk:rblibtorrent2.0": [
+    "*"
+  ],
+  "ipk:resize2fs": [
+    "*"
+  ],
+  "ipk:resolveip": [
+    "*"
+  ],
+  "ipk:rpcd-mod-file": [
+    "*"
+  ],
+  "ipk:rpcd-mod-iwinfo": [
+    "*"
+  ],
+  "ipk:rpcd-mod-luci": [
+    "*"
+  ],
+  "ipk:rpcd-mod-rrdns": [
+    "*"
+  ],
+  "ipk:rpcd-mod-ucode": [
+    "*"
+  ],
+  "ipk:rpcd": [
+    "*"
+  ],
+  "ipk:rrdtool1": [
+    "*"
+  ],
+  "ipk:samba4-libs": [
+    "*"
+  ],
+  "ipk:samba4-server": [
+    "*"
+  ],
+  "ipk:smartdns": [
+    "*"
+  ],
+  "ipk:smartmontools-drivedb": [
+    "*"
+  ],
+  "ipk:smartmontools": [
+    "*"
+  ],
+  "ipk:sms-tool": [
+    "*"
+  ],
+  "ipk:sqm-scripts": [
+    "*"
+  ],
+  "ipk:squashfs-tools-mksquashfs": [
+    "*"
+  ],
+  "ipk:squashfs-tools-unsquashfs": [
+    "*"
+  ],
+  "ipk:tailscale": [
+    "*"
+  ],
+  "ipk:tar": [
+    "*"
+  ],
+  "ipk:tc-tiny": [
+    "*"
+  ],
+  "ipk:tcping": [
+    "*"
+  ],
+  "ipk:terminfo": [
+    "*"
+  ],
+  "ipk:tom": [
+    "*"
+  ],
+  "ipk:ttyd": [
+    "*"
+  ],
+  "ipk:ubi-utils": [
+    "*"
+  ],
+  "ipk:uboot-envtools": [
+    "*"
+  ],
+  "ipk:ubox": [
+    "*"
+  ],
+  "ipk:ubus-at-daemon": [
+    "*"
+  ],
+  "ipk:ubusd": [
+    "*"
+  ],
+  "ipk:ubus": [
+    "*"
+  ],
+  "ipk:uci": [
+    "*"
+  ],
+  "ipk:uclient-fetch": [
+    "*"
+  ],
+  "ipk:ucode-mod-fs": [
+    "*"
+  ],
+  "ipk:ucode-mod-html": [
+    "*"
+  ],
+  "ipk:ucode-mod-lua": [
+    "*"
+  ],
+  "ipk:ucode-mod-math": [
+    "*"
+  ],
+  "ipk:ucode-mod-nl80211": [
+    "*"
+  ],
+  "ipk:ucode-mod-rtnl": [
+    "*"
+  ],
+  "ipk:ucode-mod-ubus": [
+    "*"
+  ],
+  "ipk:ucode-mod-uci": [
+    "*"
+  ],
+  "ipk:ucode-mod-uloop": [
+    "*"
+  ],
+  "ipk:ucode": [
+    "*"
+  ],
+  "ipk:uhttpd-mod-ubus": [
+    "*"
+  ],
+  "ipk:uhttpd": [
+    "*"
+  ],
+  "ipk:unzip": [
+    "*"
+  ],
+  "ipk:uqmi": [
+    "*"
+  ],
+  "ipk:urandom-seed": [
+    "*"
+  ],
+  "ipk:urngd": [
+    "*"
+  ],
+  "ipk:usb-modeswitch": [
+    "*"
+  ],
+  "ipk:usbids": [
+    "*"
+  ],
+  "ipk:usbutils": [
+    "*"
+  ],
+  "ipk:usign": [
+    "*"
+  ],
+  "ipk:v2ray-geoip": [
+    "*"
+  ],
+  "ipk:v2ray-geosite": [
+    "*"
+  ],
+  "ipk:vnstat": [
+    "*"
+  ],
+  "ipk:wget-ssl": [
+    "*"
+  ],
+  "ipk:wifi-scripts": [
+    "*"
+  ],
+  "ipk:wifischedule": [
+    "*"
+  ],
+  "ipk:wireguard-tools": [
+    "*"
+  ],
+  "ipk:wireless-regdb": [
+    "*"
+  ],
+  "ipk:wpad-basic-mbedtls": [
+    "*"
+  ],
+  "ipk:wrtbwmon": [
+    "*"
+  ],
+  "ipk:wwan": [
+    "*"
+  ],
+  "ipk:xray-core": [
+    "*"
+  ],
+  "ipk:xtables-nft": [
+    "*"
+  ],
+  "ipk:xz-utils": [
+    "*"
+  ],
+  "ipk:xz": [
+    "*"
+  ],
+  "ipk:zlib": [
+    "*"
+  ],
+  "ipk:zoneinfo-asia": [
+    "*"
+  ],
+  "ipk:zoneinfo-core": [
+    "*"
   ]
 }
