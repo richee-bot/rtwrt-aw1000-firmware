@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "eec1dfd8-cba",
+      "ts": 1791973133212,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "53cb0700-ff4",
       "ts": 1791973096983,
       "type": "download_app",
@@ -1775,26 +1793,7 @@
         "wants": "fw v5.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "84f3bef5-b86",
-      "ts": 1790784004088,
-      "type": "download_fw",
-      "user": "RiduanWan",
-      "summary": "Wants FW v5.1",
-      "device": "Xiaomi M2012K11AG",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.12.0",
-        "app_tag": "",
-        "fw_ver": "v5.1",
-        "wants": "fw v5.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791973097793
+  "updated": 1791973133871
 }
