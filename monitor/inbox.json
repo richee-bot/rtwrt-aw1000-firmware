@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "6a9e4bfb-599",
+      "ts": 1791973080079,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "7eb93df2-1d3",
       "ts": 1791973058864,
       "type": "health",
@@ -1772,19 +1790,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":47,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":976,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "b0cc4b8c-bba",
-      "ts": 1790783822136,
-      "type": "register",
-      "user": "RiduanWan",
-      "summary": "New user registered",
-      "device": "Xiaomi M2012K11AG",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1791973060415
+  "updated": 1791973081362
 }
