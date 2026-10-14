@@ -1,0 +1,56 @@
+[
+  {
+    "id": "wifi-reload",
+    "name": "Reload Wi-Fi Radios",
+    "command": "wifi reload",
+    "detail": "Reloads both MediaTek MT7976 5GHz and 2.4GHz Wi-Fi radios."
+  },
+  {
+    "id": "drop-caches",
+    "name": "Free RAM / Drop Caches",
+    "command": "sync && echo 3 > /proc/sys/vm/drop_caches",
+    "detail": "Reclaims unused pagecache, dentries and inodes immediately."
+  },
+  {
+    "id": "dns-flush",
+    "name": "Flush DNS Cache",
+    "command": "/etc/init.d/dnsmasq restart",
+    "detail": "Flushes dnsmasq local DNS cache and restarts daemon."
+  },
+  {
+    "id": "modem-signal",
+    "name": "Check 5G Modem Signal (CSQ)",
+    "command": "sms_tool at -d /dev/ttyUSB3 AT+CSQ",
+    "detail": "Queries Quectel RG500Q-EA signal quality and channel info."
+  },
+  {
+    "id": "soc-temp",
+    "name": "Check CPU & SoC Temperature",
+    "command": "cat /sys/class/thermal/thermal_zone0/temp | awk '{print $1/1000 \"°C\"}'",
+    "detail": "Reads MediaTek MT7986A Filogic SoC on-die thermal sensor."
+  },
+  {
+    "id": "passwall-restart",
+    "name": "Restart PassWall 2 Core",
+    "command": "/etc/init.d/passwall2 restart",
+    "detail": "Restarts PassWall 2 VLESS / Reality / Xray proxy acceleration."
+  },
+  {
+    "id": "led-auto-cycle",
+    "name": "Cycle All LED Show Modes",
+    "command": "/usr/bin/rtwrt_rgb_cycle.sh cycle_all",
+    "detail": "Engages Arcadyan AW1000 all 6 front-panel LEDs kinetic animation."
+  },
+  {
+    "id": "opennds-clients",
+    "name": "Show Captive Portal Clients",
+    "command": "ndsctl status",
+    "detail": "Displays authenticated vouchers and client MAC addresses."
+  },
+  {
+    "id": "sys-status",
+    "name": "System Resources & Load",
+    "command": "uptime && free -h && df -h /overlay",
+    "detail": "Displays system uptime, memory usage, and flash storage."
+  }
+]
