@@ -1,11 +1,25 @@
 {
   "events": [
     {
+      "id": "3a3db3a8-ccb",
+      "ts": 1791938820108,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "2.0.0",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "8ef1ad75ed62",
       "ts": 1791937627465,
       "type": "download_app",
       "user": "mrusydii93",
-      "summary": "Wants APP 1.12.1 (app-1.12.1) · from /rtwrt/app",
+      "summary": "Wants APP 1.12.1 (app-1.12.1) · from \/rtwrt\/app",
       "device": "web-portal",
       "app": "1.12.1",
       "host": "192.168.1.1",
@@ -14,9 +28,9 @@
         "kind": "app",
         "app_ver": "1.12.1",
         "app_tag": "app-1.12.1",
-        "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/app-1.12.1/RTWRT-1.12.1-release.apk",
+        "apk_url": "https:\/\/github.com\/richee-bot\/rtwrt-aw1000-firmware\/releases\/download\/app-1.12.1\/RTWRT-1.12.1-release.apk",
         "fw_ver": "v3",
-        "source": "/rtwrt/app/",
+        "source": "\/rtwrt\/app\/",
         "wants": "app 1.12.1"
       }
     },
@@ -1775,26 +1789,7 @@
         "wants": "app 1.12.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "441c11b7-a7b",
-      "ts": 1790775934635,
-      "type": "download_app",
-      "user": "tayu",
-      "summary": "Wants APP 1.12.0 (app-1.12.0)",
-      "device": "nubia NX729J",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.0",
-        "app_tag": "app-1.12.0",
-        "fw_ver": "v5",
-        "wants": "app 1.12.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791937628842
+  "updated": 1791938821997
 }
