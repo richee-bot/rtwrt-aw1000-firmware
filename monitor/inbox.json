@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "95541e3c-f39",
+      "ts": 1792014320567,
+      "type": "download_fw",
+      "user": "Kert_koben",
+      "summary": "Wants FW v5.1",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "fw",
+        "app_ver": "1.12.1",
+        "app_tag": "",
+        "fw_ver": "v5.1",
+        "wants": "fw v5.1"
+      }
+    },
+    {
       "id": "9e2ad3fe-285",
       "ts": 1792014256358,
       "type": "health",
@@ -1781,21 +1799,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "1c5dc26e-e13",
-      "ts": 1790796558636,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: OFFLINE Â· VPN unreachable â open Tailscale app?",
-      "device": "nubia NX729J",
-      "app": "1.12.1",
-      "host": "rtwrt-1.tail4af42b.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792014257967
+  "updated": 1792014321505
 }
