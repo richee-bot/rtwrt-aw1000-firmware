@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "c93fb948-2c1",
+      "ts": 1792015155380,
+      "type": "health",
+      "user": "Kert_koben",
+      "summary": "health: ONLINE · 192.168.1.1 · CPU 60°C · SSD —",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": "{\"ok\":true,\"temp_c\":60,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1000,\"load\":\"0.16\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
+      }
+    },
+    {
       "id": "dc5765bd-4af",
       "ts": 1792015093821,
       "type": "health",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":61,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.01\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "61e2a9e1-f9b",
-      "ts": 1790825386934,
-      "type": "health",
-      "user": "RiduanWan",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "Xiaomi M2012K11AG",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792015148015
+  "updated": 1792015156095
 }
