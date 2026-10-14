@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "11fcb4e9-b30",
+      "ts": 1791964510883,
+      "type": "health",
+      "user": "RiduanWan",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "21a15c4e-9b3",
       "ts": 1791938893703,
       "type": "health",
@@ -1765,26 +1779,7 @@
         "wants": "app 1.12.0"
       },
       "status": "approved"
-    },
-    {
-      "id": "d40c4194-597",
-      "ts": 1790776052784,
-      "type": "download_app",
-      "user": "Aronz777",
-      "summary": "Wants APP 1.12.0 (app-1.12.0)",
-      "device": "OPPO CPH2639",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.0",
-        "app_tag": "app-1.12.0",
-        "fw_ver": "v5",
-        "wants": "app 1.12.0"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1791938894622
+  "updated": 1791964511584
 }
