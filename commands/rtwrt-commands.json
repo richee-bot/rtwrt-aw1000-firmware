@@ -1,10 +1,9 @@
 [
   {
-    "id": "Passwall Fail after Reboot? Run This",
-    "name": "Auto Reload Passwall",
-    "command": "Sed -i '/start_service() {/a \    chmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/init.d/passwall
-/etc/init.d/passwall",
-    "detail": "Reloads Passwall after autoschedule Reboot."
+    "id": "Passwall Fail to load after Reboot? Run This",
+    "name": "Auto Enable Passwall",
+    "command": "sed -i '/exit 0/i sleep 10\nchmod +x /tmp/etc/passwall/bin/* 2>/dev/null' /etc/rc.local",
+    "detail": "Enable Passwall after autoschedule Reboot."
   },
   {
     "id": "wifi-reload",
