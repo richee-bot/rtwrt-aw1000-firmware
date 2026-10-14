@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "f2fbfbf7-feb",
+      "ts": 1792015377336,
+      "type": "download_app",
+      "user": "Kert_koben",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "HONOR MTN-NX1",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "6b479ce9-38a",
       "ts": 1792015165515,
       "type": "download_app",
@@ -1803,21 +1821,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "0e1b35fb-2ca",
-      "ts": 1790848558204,
-      "type": "health",
-      "user": "Aronz777",
-      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 61Â°C Â· SSD â",
-      "device": "OPPO CPH2639",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":61,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":952,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1792015166705
+  "updated": 1792015377898
 }
