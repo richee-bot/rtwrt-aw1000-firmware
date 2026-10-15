@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "846ff6ec-373",
+      "ts": 1792076794497,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "3d632c7a-b42",
       "ts": 1792076711298,
       "type": "health",
@@ -1799,21 +1813,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "e7f9b865-1a7",
-      "ts": 1790975085273,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: ONLINE Â· 192.168.1.1 Â· CPU 51Â°C Â· SSD â",
-      "device": "samsung SM-S928B",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":51,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":944,\"load\":\"0.15\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1792076713096
+  "updated": 1792076795241
 }
