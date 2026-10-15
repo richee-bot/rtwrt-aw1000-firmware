@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "5f731a63-52e",
+      "ts": 1792071941128,
+      "type": "download_app",
+      "user": "deepstroyer",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "ffd4d8db-ae2",
       "ts": 1792071836378,
       "type": "download_app",
@@ -1803,21 +1821,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "c89005d2-7f1",
-      "ts": 1790941944761,
-      "type": "health",
-      "user": "richeetayu",
-      "summary": "health: OFFLINE Â· VPN unreachable â open Tailscale app?",
-      "device": "nubia NX729J",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792071837531
+  "updated": 1792071942055
 }
