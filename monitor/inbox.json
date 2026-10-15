@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "4c91713f-bf6",
+      "ts": 1792071811191,
+      "type": "download_app",
+      "user": "deepstroyer",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "cde29d1d-1e4",
       "ts": 1792071796952,
       "type": "health",
@@ -1795,26 +1813,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":68,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"24\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "888fe969-6ae",
-      "ts": 1790903826361,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.12.1 (app-1.12.1)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.1",
-        "app_tag": "app-1.12.1",
-        "fw_ver": "v5",
-        "wants": "app 1.12.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1792071799774
+  "updated": 1792071811943
 }
