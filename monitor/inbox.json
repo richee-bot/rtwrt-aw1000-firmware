@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "bffe3aae-e03",
+      "ts": 1792022651854,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "71414375-893",
       "ts": 1792022649706,
       "type": "health",
@@ -1806,26 +1824,7 @@
         "wants": "fw v5"
       },
       "status": "approved"
-    },
-    {
-      "id": "96d506ed-83f",
-      "ts": 1790856428280,
-      "type": "download_app",
-      "user": "Kert_koben",
-      "summary": "Wants APP 1.12.1 (app-1.12.1)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "app",
-        "app_ver": "1.12.1",
-        "app_tag": "app-1.12.1",
-        "fw_ver": "v5",
-        "wants": "app 1.12.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1792022651516
+  "updated": 1792022655438
 }
