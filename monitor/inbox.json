@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "cde29d1d-1e4",
+      "ts": 1792071796952,
+      "type": "health",
+      "user": "deepstroyer",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "74cf073f-232",
       "ts": 1792057246323,
       "type": "health",
@@ -1800,21 +1814,7 @@
         "wants": "app 1.12.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "5a76d993-0a6",
-      "ts": 1790903808419,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792057247039
+  "updated": 1792071799774
 }
