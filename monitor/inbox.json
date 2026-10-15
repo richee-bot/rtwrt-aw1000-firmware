@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "71414375-893",
+      "ts": 1792022649706,
+      "type": "health",
+      "user": "Aronz777",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "4ce9bdbc-921",
       "ts": 1792019050638,
       "type": "health",
@@ -1811,21 +1825,7 @@
         "wants": "app 1.12.1"
       },
       "status": "approved"
-    },
-    {
-      "id": "4f54e220-59c",
-      "ts": 1790852272792,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· VPN unreachable â open Tailscale app?",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792019051978
+  "updated": 1792022651516
 }
