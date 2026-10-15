@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "790d5b94-222",
+      "ts": 1792023357603,
+      "type": "download_app",
+      "user": "Aronz777",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "OPPO CPH2639",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "49f2ae9e-4c5",
       "ts": 1792023349996,
       "type": "health",
@@ -1794,26 +1812,7 @@
       "extra": {
         "power": "{\"ok\":true,\"temp_c\":63,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1016,\"load\":\"0.44\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"29\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
       }
-    },
-    {
-      "id": "96edf389-512",
-      "ts": 1790856465566,
-      "type": "download_fw",
-      "user": "Kert_koben",
-      "summary": "Wants FW v5.1",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "192.168.1.1",
-      "read": true,
-      "extra": {
-        "kind": "fw",
-        "app_ver": "1.11.2",
-        "app_tag": "",
-        "fw_ver": "v5.1",
-        "wants": "fw v5.1"
-      },
-      "status": "approved"
     }
   ],
-  "updated": 1792023350656
+  "updated": 1792023358275
 }
