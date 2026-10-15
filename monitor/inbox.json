@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "ffd4d8db-ae2",
+      "ts": 1792071836378,
+      "type": "download_app",
+      "user": "deepstroyer",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "samsung SM-S928B",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "4c91713f-bf6",
       "ts": 1792071811191,
       "type": "download_app",
@@ -1799,21 +1817,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "bd0348fd-4c2",
-      "ts": 1790925840617,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: ONLINE Â· rtwrt.tailb43e43.ts.net Â· CPU 68Â°C Â· SSD â",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": "{\"ok\":true,\"temp_c\":68,\"ssd_temp_c\":null,\"ssd_model\":\"\",\"ssd_health\":\"\",\"ssd_device\":\"\",\"soc_mv\":1008,\"load\":\"0.00\",\"cpu_mhz\":2208,\"tx_dbm_5g\":\"24\",\"tx_dbm_2g\":\"25\",\"note\":\"\"}\n"
-      }
     }
   ],
-  "updated": 1792071811943
+  "updated": 1792071837531
 }
