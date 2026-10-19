@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "349e4c2a-654",
+      "ts": 1792420688508,
+      "type": "download_app",
+      "user": "RiduanWan",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "8a7cce29-9cc",
       "ts": 1792420688687,
       "type": "health",
@@ -1799,21 +1817,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "b156380e-d3e",
-      "ts": 1790975652599,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "samsung SM-S928B",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792420689186
+  "updated": 1792420692347
 }
