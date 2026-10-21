@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "7d7c7bbe-00c",
+      "ts": 1792593306960,
+      "type": "health",
+      "user": "root",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "349e4c2a-654",
       "ts": 1792420688508,
       "type": "download_app",
@@ -1805,19 +1819,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "b77d1520-3a4",
-      "ts": 1790976321231,
-      "type": "register",
-      "user": "deepstroyer",
-      "summary": "New user registered",
-      "device": "samsung SM-S928B",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1792420692347
+  "updated": 1792593308157
 }
