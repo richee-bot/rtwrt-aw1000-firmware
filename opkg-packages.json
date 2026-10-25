@@ -1,35 +1,35 @@
 {
   "packages": [
     {
-      "name": "Adguard-Home",
-      "note": "adguardhome 0.107.79 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-Adguard-Home/adguardhome-0.107.79-r1.apk"
+      "name": "luci-app-passwall2",
+      "note": "PassWall 2",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2_26.3.5-r1_all.ipk"
     },
     {
-      "name": "NextDNS",
-      "note": "nextdns 1.47.3 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-NextDNS/nextdns-1.47.3-r1.apk"
+      "name": "luci-app-passwall",
+      "note": "PassWall",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall/luci-app-passwall_26.3.6-r1_all.ipk"
     },
     {
-      "name": "OpenVPN",
-      "note": "openvpn-openssl 2.7.7 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-OpenVPN/openvpn-openssl-2.7.7-r1.apk"
+      "name": "luci-app-rtwrt-ads",
+      "note": "RTWRT ADS",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-ads/luci-app-rtwrt-ads_1.1.0-1_all.ipk"
     },
     {
-      "name": "CloudFlare",
-      "note": "cloudflared 2026.7.3 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-CloudFlare/cloudflared-2026.7.3-r1.apk"
+      "name": "luci-app-rtwrt-led",
+      "note": "RTWRT LED",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-led/luci-app-rtwrt-led_1.0.0-1_all.ipk"
     },
     {
-      "name": "ZeroTier",
-      "note": "zerotier 1.16.0 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-ZeroTier/zerotier-1.16.0-r1.apk"
+      "name": "luci-theme-fui",
+      "note": "FUI theme",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-fui/luci-theme-fui_1.0.0-1_all.ipk"
     },
     {
-      "name": "SmartDNS",
-      "note": "smartdns 46.1 · aarch64_cortex-a53 · OpenWrt 25.12.5",
-      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-SmartDNS/smartdns-46.1-r1.apk"
+      "name": "xray-core",
+      "note": "Xray core",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-xray-core/xray-core_26.10.17-r1_aarch64_cortex-a53.ipk"
     }
   ],
-  "updated": "2026-09-30"
+  "updated": "2026-10-26"
 }
