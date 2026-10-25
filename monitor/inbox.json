@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "33a52c61-592",
+      "ts": 1792889343283,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "eed5f71a-0cd",
       "ts": 1792889243214,
       "type": "health",
@@ -1802,21 +1820,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "e0646efb-5db",
-      "ts": 1790983097290,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "samsung SM-S928B",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792889244322
+  "updated": 1792889343915
 }
