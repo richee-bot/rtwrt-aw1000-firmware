@@ -1051,7 +1051,7 @@
       "device": "web-portal",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "1.12.1",
@@ -1060,7 +1060,8 @@
         "fw_ver": "v3",
         "source": "\/rtwrt\/app\/",
         "wants": "app 1.12.1"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "4bd0aec3-e90",
@@ -1843,5 +1844,5 @@
       }
     }
   ],
-  "updated": 1792946585834
+  "updated": 1792946629277
 }
