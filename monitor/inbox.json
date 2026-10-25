@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "b48c1663-69a",
+      "ts": 1792890019060,
+      "type": "download_app",
+      "user": "richeetayu",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "4fc5b4c7-4e4",
       "ts": 1792889996360,
       "type": "health",
@@ -1806,21 +1824,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "888a8087-2cf",
-      "ts": 1791068427709,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· VPN unreachable â open Tailscale app?",
-      "device": "HONOR MTN-NX1",
-      "app": "1.11.2",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792889997150
+  "updated": 1792890019644
 }
