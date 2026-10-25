@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "0755ed77-38c",
+      "ts": 1792953962149,
+      "type": "download_app",
+      "user": "root",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v4",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "e98781c1-d35",
       "ts": 1792953937873,
       "type": "download_app",
@@ -1841,19 +1859,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "427e96c7-c7c",
-      "ts": 1791071278032,
-      "type": "register",
-      "user": "Kert_koben",
-      "summary": "New user registered",
-      "device": "HONOR MTN-NX1",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": true,
-      "status": "approved"
     }
   ],
-  "updated": 1792953939117
+  "updated": 1792953962765
 }
