@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "eed5f71a-0cd",
+      "ts": 1792889243214,
+      "type": "health",
+      "user": "richeetayu",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "nubia NX729J",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "20784a4b-b7e",
       "ts": 1792889235698,
       "type": "register",
@@ -1802,21 +1816,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "c3810a8f-ff5",
-      "ts": 1790977245836,
-      "type": "health",
-      "user": "deepstroyer",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "samsung SM-S928B",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792889236423
+  "updated": 1792889244322
 }
