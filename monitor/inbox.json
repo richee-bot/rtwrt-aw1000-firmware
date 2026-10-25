@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "id": "fe43f998-f93",
+      "ts": 1792953930298,
+      "type": "health",
+      "user": "root",
+      "summary": "health: OFFLINE · Hostname unreachable — on home Wi‑Fi? (need BETA-v3 CGI)",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "power": ""
+      }
+    },
+    {
       "id": "4276a815-58e",
       "ts": 1792893341572,
       "type": "health",
@@ -1835,21 +1849,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "4505a404-f98",
-      "ts": 1791069703058,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.12.1",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792946716496
+  "updated": 1792953931670
 }
