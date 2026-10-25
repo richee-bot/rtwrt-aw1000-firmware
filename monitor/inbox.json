@@ -310,14 +310,15 @@
       "device": "OPPO CPH2639",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "cdce2c8e-611",
@@ -394,14 +395,15 @@
       "device": "OPPO CPH2639",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "49f2ae9e-4c5",
@@ -426,14 +428,15 @@
       "device": "OPPO CPH2639",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "fdbaf067-f14",
@@ -458,14 +461,15 @@
       "device": "OPPO CPH2639",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "71414375-893",
@@ -1844,5 +1848,5 @@
       }
     }
   ],
-  "updated": 1792946629277
+  "updated": 1792946707128
 }
