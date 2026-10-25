@@ -141,14 +141,15 @@
       "device": "Xiaomi 25057RN09G",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "8a7cce29-9cc",
@@ -341,14 +342,15 @@
       "device": "Xiaomi M2012K11AG",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "9a228645-3b4",
@@ -359,14 +361,15 @@
       "device": "Xiaomi M2012K11AG",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "b6699954-6a2",
@@ -501,14 +504,15 @@
       "device": "Xiaomi 25057RN09G",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v5.1",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "f2fbfbf7-feb",
@@ -953,14 +957,15 @@
       "device": "Xiaomi 25057RN09G",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.1",
         "app_tag": "app-2.0.1",
         "fw_ver": "v5.1",
         "wants": "app 2.0.1"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "b05d120f-410",
@@ -985,14 +990,15 @@
       "device": "Xiaomi 25057RN09G",
       "app": "1.12.1",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.1",
         "app_tag": "app-2.0.1",
         "fw_ver": "v5.1",
         "wants": "app 2.0.1"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "11fcb4e9-b30",
@@ -1837,5 +1843,5 @@
       }
     }
   ],
-  "updated": 1792946571310
+  "updated": 1792946585834
 }
