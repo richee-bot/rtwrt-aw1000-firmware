@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "e98781c1-d35",
+      "ts": 1792953937873,
+      "type": "download_app",
+      "user": "root",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "HONOR BVL-N49",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v4",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "fe43f998-f93",
       "ts": 1792953930298,
       "type": "health",
@@ -1835,21 +1853,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "c19b552e-8c0",
-      "ts": 1791069819736,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.12.1",
-      "host": "rtwrt.tailb43e43.ts.net",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792953931670
+  "updated": 1792953939117
 }
