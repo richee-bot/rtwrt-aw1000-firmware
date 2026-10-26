@@ -1439,5 +1439,13 @@
   "ipk:zoneinfo-core": [
     "*"
   ],
-  "app:1.12.2": []
+  "ipk:kmod-aw1000-fxs": [
+    "*"
+  ],
+  "ipk:fxsd": [
+    "*"
+  ],
+  "ipk:luci-app-fxs": [
+    "*"
+  ]
 }
