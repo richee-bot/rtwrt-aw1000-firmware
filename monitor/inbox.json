@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "id": "bf733214-e00",
+      "ts": 1792994240457,
+      "type": "register",
+      "user": "richee",
+      "summary": "New user registered",
+      "device": "nubia NX729J",
+      "app": "1.10.4",
+      "host": "192.168.1.1",
+      "read": false
+    },
+    {
       "id": "1c1b5b38-61f",
       "ts": 1792954963007,
       "type": "health",
@@ -1845,21 +1856,7 @@
       "host": "192.168.1.1",
       "read": true,
       "status": "approved"
-    },
-    {
-      "id": "d2a6ee2f-ef0",
-      "ts": 1791071383837,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.12.1",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1792954963447
+  "updated": 1792994242197
 }
