@@ -1,6 +1,11 @@
 {
   "packages": [
     {
+      "name": "luci-app-nlbwmon",
+      "note": "Bandwidth & Traffic Monitor (All-in-One)",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk"
+    },
+    {
       "name": "kmod-aw1000-fxs",
       "note": "AW1000 FXS SLIC Kernel Module",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk"
