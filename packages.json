@@ -1,5 +1,50 @@
 [
   {
+    "tag_name": "ipk-luci-app-fxs",
+    "name": "luci-app-fxs",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-26T13:12:00Z",
+    "assets": [
+      {
+        "name": "luci-app-fxs_0.3.0-r1_all.ipk",
+        "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs_0.3.0-r1_all.ipk",
+        "updated_at": "2026-10-26T13:12:00Z",
+        "size": 11095
+      }
+    ]
+  },
+  {
+    "tag_name": "ipk-fxsd",
+    "name": "fxsd",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-26T13:12:00Z",
+    "assets": [
+      {
+        "name": "fxsd_0.3.0-r1_aarch64_cortex-a53.ipk",
+        "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd_0.3.0-r1_aarch64_cortex-a53.ipk",
+        "updated_at": "2026-10-26T13:12:00Z",
+        "size": 40762
+      }
+    ]
+  },
+  {
+    "tag_name": "ipk-kmod-aw1000-fxs",
+    "name": "kmod-aw1000-fxs",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-26T13:12:00Z",
+    "assets": [
+      {
+        "name": "kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk",
+        "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk",
+        "updated_at": "2026-10-26T13:12:00Z",
+        "size": 10307
+      }
+    ]
+  },
+  {
     "tag_name": "v6.1",
     "name": "RTWRT NeuralEngine v6.1",
     "draft": false,
