@@ -1,6 +1,11 @@
 {
   "packages": [
     {
+      "name": "luci-app-wol",
+      "note": "Wake on LAN (Web UI + etherwake)",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol_26.081.63927~e56e710_all.ipk"
+    },
+    {
       "name": "luci-app-nlbwmon",
       "note": "Bandwidth & Traffic Monitor (All-in-One)",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk"
