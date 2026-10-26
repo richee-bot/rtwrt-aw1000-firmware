@@ -62,14 +62,15 @@
       "device": "HONOR BVL-N49",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v4",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "e98781c1-d35",
@@ -80,14 +81,15 @@
       "device": "HONOR BVL-N49",
       "app": "1.10.4",
       "host": "192.168.1.1",
-      "read": false,
+      "read": true,
       "extra": {
         "kind": "app",
         "app_ver": "2.0.0",
         "app_tag": "app-2.0.0",
         "fw_ver": "v4",
         "wants": "app 2.0.0"
-      }
+      },
+      "status": "rejected"
     },
     {
       "id": "fe43f998-f93",
@@ -1860,5 +1862,5 @@
       }
     }
   ],
-  "updated": 1792994251892
+  "updated": 1793009619787
 }
