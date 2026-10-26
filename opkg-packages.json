@@ -1,6 +1,21 @@
 {
   "packages": [
     {
+      "name": "kmod-aw1000-fxs",
+      "note": "AW1000 FXS SLIC Kernel Module",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk"
+    },
+    {
+      "name": "fxsd",
+      "note": "RJ11 Phone Port Service & Patch",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd_0.3.0-r1_aarch64_cortex-a53.ipk"
+    },
+    {
+      "name": "luci-app-fxs",
+      "note": "Phone (RJ11) LuCI Web GUI",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs_0.3.0-r1_all.ipk"
+    },
+    {
       "name": "luci-app-passwall2",
       "note": "PassWall 2",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2_26.3.5-r1_all.ipk"
