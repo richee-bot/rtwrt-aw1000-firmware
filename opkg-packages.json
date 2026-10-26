@@ -1,6 +1,11 @@
 {
   "packages": [
     {
+      "name": "luci-theme-moci",
+      "note": "MoCI Dark Neon Console Theme for LuCI",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-moci/luci-theme-moci_1.0.0-1_all.ipk"
+    },
+    {
       "name": "luci-app-wol",
       "note": "Wake on LAN (Web UI + etherwake)",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol_26.081.63927~e56e710_all.ipk"
