@@ -1,5 +1,20 @@
 [
   {
+    "tag_name": "ipk-luci-app-nlbwmon",
+    "name": "luci-app-nlbwmon",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-26T14:20:00Z",
+    "assets": [
+      {
+        "name": "luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk",
+        "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk",
+        "updated_at": "2026-10-26T14:20:00Z",
+        "size": 54897
+      }
+    ]
+  },
+  {
     "tag_name": "ipk-luci-app-fxs",
     "name": "luci-app-fxs",
     "draft": false,
@@ -5087,21 +5102,6 @@
         "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-netstat/luci-app-netstat_1.0.5-r7_all.ipk",
         "updated_at": "2026-10-14T18:00:00Z",
         "size": 86287
-      }
-    ]
-  },
-  {
-    "tag_name": "ipk-luci-app-nlbwmon",
-    "name": "luci-app-nlbwmon",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-14T18:00:00Z",
-    "assets": [
-      {
-        "name": "luci-app-nlbwmon_26.081.63927~e56e710_all.ipk",
-        "browser_download_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_26.081.63927~e56e710_all.ipk",
-        "updated_at": "2026-10-14T18:00:00Z",
-        "size": 11766
       }
     ]
   },
