@@ -1,0 +1,153 @@
+Package: luci-app-vantage
+Version: 1.0.3-r2
+Depends: libc, luci-base, rpcd, rpcd-mod-iwinfo, rpcd-mod-ucode, ucode-mod-uci, ucode-mod-ubus
+Provides: luci-app-vantage-any, rtwrt-vantage, RTWRT-VANTAGE
+Source: feeds/vantage/feeds/vantage/luci-app-vantage
+SourceName: luci-app-vantage
+License: GPL-3.0-or-later
+Section: luci
+SourceDateEpoch: 1793012000
+URL: https://github.com/richee-bot/rtwrt-aw1000-firmware
+Maintainer: RTWRT <richeetayu@gmail.com>
+Architecture: all
+Installed-Size: 280000
+Description: RTWRT Vantage Theme & Dynamic Live Network Dashboard (Vibrant Typography & GitHub Broadcast Edition)
+Filename: RTWRT-VANTAGE.ipk
+Size: 78209
+SHA256sum: d2938191670c2a1704f4974206c864b466aebf5720be8b23f91ade35626d786f
+
+Package: luci-app-vantage
+Version: 1.0.3-r2
+Depends: libc, luci-base, rpcd, rpcd-mod-iwinfo, rpcd-mod-ucode, ucode-mod-uci, ucode-mod-ubus
+Provides: luci-app-vantage-any, rtwrt-vantage, RTWRT-VANTAGE
+Source: feeds/vantage/feeds/vantage/luci-app-vantage
+SourceName: luci-app-vantage
+License: GPL-3.0-or-later
+Section: luci
+SourceDateEpoch: 1793012000
+URL: https://github.com/richee-bot/rtwrt-aw1000-firmware
+Maintainer: RTWRT <richeetayu@gmail.com>
+Architecture: all
+Installed-Size: 280000
+Description: RTWRT Vantage Theme & Dynamic Live Network Dashboard (Vibrant Typography & GitHub Broadcast Edition)
+Filename: RTWRT❌VANTAGE.ipk
+Size: 78209
+SHA256sum: d2938191670c2a1704f4974206c864b466aebf5720be8b23f91ade35626d786f
+
+Package: luci-app-vantage
+Version: 1.0.3-r2
+Depends: libc, luci-base, rpcd, rpcd-mod-iwinfo, rpcd-mod-ucode, ucode-mod-uci, ucode-mod-ubus
+Provides: luci-app-vantage-any, rtwrt-vantage, RTWRT-VANTAGE
+Source: feeds/vantage/feeds/vantage/luci-app-vantage
+SourceName: luci-app-vantage
+License: GPL-3.0-or-later
+Section: luci
+SourceDateEpoch: 1793012000
+URL: https://github.com/richee-bot/rtwrt-aw1000-firmware
+Maintainer: RTWRT <richeetayu@gmail.com>
+Architecture: all
+Installed-Size: 280000
+Description: RTWRT Vantage Theme & Dynamic Live Network Dashboard (Vibrant Typography & GitHub Broadcast Edition)
+Filename: luci-app-vantage_1.0.3-r1_all.ipk
+Size: 78209
+SHA256sum: d2938191670c2a1704f4974206c864b466aebf5720be8b23f91ade35626d786f
+
+Package: luci-theme-moci
+Version: 1.0.0-1
+Depends: libc, luci-base, luci-app-vantage, luci-app-ttyd
+Source: feeds/luci/themes/luci-theme-moci
+SourceName: luci-theme-moci
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1793006602
+Architecture: all
+Installed-Size: 260000
+Description: MoCI Cyber-Obsidian Theme, Animated Overview with Flags & Termius SSH Terminal for RTWRT
+Filename: luci-theme-moci_1.0.0-1_all.ipk
+Size: 90811
+SHA256sum: 99f3e4780c6ddf9838d4d943746aec3451a1f616637d6301e11d2970cc262a9a
+
+Package: luci-theme-footstrap
+Version: 0.14.14-r1
+Architecture: all
+Installed-Size: 240953
+Depends: luci-base
+License: Apache-2.0
+Maintainer: Ivan Kvashonkin <vizzlef@gmail.com>
+Source: https://github.com/VizzleTF/luci-theme-footstrap
+Description: A modern, fast LuCI theme.
+Filename: luci-theme-footstrap_0.14.14-r1_all.ipk
+Size: 73160
+SHA256sum: 9598f77b49f3e9311f06c9fbb6f37fd8ad96c0c06b7a7c13a9b4cd4d6aa971dd
+
+Package: qmodem
+Version: 3.0.2-r1
+Depends: libc, kmod-usb2, kmod-usb3, kmod-usb-serial, kmod-usb-serial-option, kmod-usb-serial-qualcomm, kmod-usb-net, kmod-usb-acm, kmod-usb-wdm, kmod-usb-net-cdc-ether, kmod-usb-net-cdc-mbim, kmod-usb-net-rndis, kmod-usb-net-cdc-ncm, kmod-usb-net-huawei-cdc-ncm, ubus-at-daemon, tom_modem, terminfo, sms-tool_q, jq, bc, coreutils, coreutils-stat, usbutils, ndisc6, kmod-qmi_wwan_q, kmod-qmi_wwan_f, kmod-qmi_wwan_s, quectel-CM-5G-M
+Source: feeds/noobwrt/feeds/QModem/application/qmodem
+SourceName: qmodem
+Section: utils
+SourceDateEpoch: 1774264079
+Architecture: all
+Installed-Size: 675840
+Description:  QModem scripts
+Filename: qmodem_3.0.2-r1_all.ipk
+Size: 98260
+SHA256sum: 426713910f4c7290e87bb46e82edc528676bd28731f5ba39e804a335e844e849
+
+Package: sms-tool_q
+Version: 3.0.2-r1
+Depends: libc
+Source: feeds/noobwrt/feeds/QModem/application/sms-tool_q
+SourceName: sms-tool_q
+Section: utils
+SourceDateEpoch: 1774264079
+URL: https://github.com/obsy/sms_tool
+Architecture: aarch64_cortex-a53
+Installed-Size: 71680
+Description:  SMS Tool for 3G/4G/5G modem
+Filename: sms-tool_q_3.0.2-r1_aarch64_cortex-a53.ipk
+Size: 9942
+SHA256sum: 4d65d66e571c5b984b646db660b4feb1969d06cc555bd47a208e0fb99782169e
+
+Package: tom_modem
+Version: 3.0.2-r1
+Depends: libc, libubus20250102, libubox20240329, libjson-c5, libblobmsg-json20240329
+Source: feeds/noobwrt/feeds/QModem/application/tom_modem
+SourceName: tom_modem
+Section: utils
+SourceDateEpoch: 1774264079
+Architecture: aarch64_cortex-a53
+Installed-Size: 71680
+Description:  Modem Communite Tool for 5G modem (By Fujr)
+Filename: tom_modem_3.0.2-r1_aarch64_cortex-a53.ipk
+Size: 17174
+SHA256sum: 5ed50442a4475c12c01a9c0107c724e3649f8938b427c7e014ef54ad30e11a20
+
+Package: ubus-at-daemon
+Version: 3.0.2-r1
+Depends: libc, libubus20250102, libubox20240329, libblobmsg-json20240329, libjson-c5
+Source: feeds/noobwrt/feeds/QModem/application/ubus_at_daemon
+SourceName: ubus-at-daemon
+Section: utils
+SourceDateEpoch: 1774264079
+Architecture: aarch64_cortex-a53
+Installed-Size: 81920
+Description:  A ubus daemon for handling AT commands with OpenWRT
+Filename: ubus-at-daemon_3.0.2-r1_aarch64_cortex-a53.ipk
+Size: 11406
+SHA256sum: a0745bcf9bbd77d1a0bcd68d78c6afe604032eaad57274477562c594273b8363
+
+Package: wrtbwmon
+Version: 1.2.1-r3
+Depends: libc, iptables
+Source: feeds/noobwrt/feeds/wrtbwmon/wrtbwmon
+SourceName: wrtbwmon
+Section: net
+SourceDateEpoch: 1774264079
+Architecture: all
+Installed-Size: 30720
+Description:  An CERNET client daemon,
+ Most usually used in China collages.
+Filename: wrtbwmon_1.2.1-r3_all.ipk
+Size: 7748
+SHA256sum: 6d26ec3a86d628baa7771e58973abc68222886fa6e6852e44cd73c03afce947f
