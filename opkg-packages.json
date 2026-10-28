@@ -2,68 +2,81 @@
   "packages": [
     {
       "name": "luci-app-vantage",
-      "note": "RTWRT❌VANTAGE Live Dashboard & Theme",
+      "note": "[APK / IPK] RTWRT❌VANTAGE Live Dashboard & Theme",
+      "format": "apk,ipk",
       "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-luci-app-vantage/luci-app-vantage-1.0.9-r1.apk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/RTWRT%E2%9D%8CVANTAGE/luci-app-vantage_1.0.3-r1_all.ipk"
     },
     {
       "name": "luci-theme-moci",
-      "note": "MoCI Dark Neon Console Theme for LuCI",
+      "note": "[IPK] MoCI Dark Neon Console Theme for LuCI",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-moci/luci-theme-moci_1.0.0-1_all.ipk"
     },
     {
       "name": "luci-app-wol",
-      "note": "Wake on LAN (Web UI + etherwake)",
+      "note": "[IPK] Wake on LAN (Web UI + etherwake)",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol_26.081.63927~e56e710_all.ipk"
     },
     {
       "name": "luci-app-nlbwmon",
-      "note": "Bandwidth & Traffic Monitor (All-in-One)",
+      "note": "[IPK] Bandwidth & Traffic Monitor (All-in-One)",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk"
     },
     {
       "name": "kmod-aw1000-fxs",
-      "note": "AW1000 FXS SLIC Kernel Module",
+      "note": "[IPK] AW1000 FXS SLIC Kernel Module",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk"
     },
     {
       "name": "fxsd",
-      "note": "RJ11 Phone Port Service & Patch",
+      "note": "[IPK] RJ11 Phone Port Service & Patch",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd_0.3.0-r1_aarch64_cortex-a53.ipk"
     },
     {
       "name": "luci-app-fxs",
-      "note": "Phone (RJ11) LuCI Web GUI",
+      "note": "[IPK] Phone (RJ11) LuCI Web GUI",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs_0.3.0-r1_all.ipk"
     },
     {
       "name": "luci-app-passwall2",
-      "note": "PassWall 2",
+      "note": "[IPK] PassWall 2",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2_26.3.5-r1_all.ipk"
     },
     {
       "name": "luci-app-passwall",
-      "note": "PassWall",
+      "note": "[IPK] PassWall",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall/luci-app-passwall_26.3.6-r1_all.ipk"
     },
     {
       "name": "luci-app-rtwrt-ads",
-      "note": "RTWRT ADS",
+      "note": "[IPK] RTWRT ADS",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-ads/luci-app-rtwrt-ads_1.1.0-1_all.ipk"
     },
     {
       "name": "luci-app-rtwrt-led",
-      "note": "RTWRT LED",
+      "note": "[IPK] RTWRT LED",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-led/luci-app-rtwrt-led_1.0.0-1_all.ipk"
     },
     {
       "name": "luci-theme-fui",
-      "note": "FUI theme",
+      "note": "[IPK] FUI theme",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-fui/luci-theme-fui_1.0.0-1_all.ipk"
     },
     {
       "name": "xray-core",
-      "note": "Xray core",
+      "note": "[IPK] Xray core",
+      "format": "ipk",
       "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-xray-core/xray-core_26.10.17-r1_aarch64_cortex-a53.ipk"
     }
   ],
