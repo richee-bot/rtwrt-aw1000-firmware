@@ -1,84 +1,141 @@
 {
+  "version": "2.2.3",
+  "updated_at": "2026-10-28T15:20:00Z",
+  "repository_format": "apk,ipk",
+  "supported_managers": [
+    "apk",
+    "opkg"
+  ],
   "packages": [
     {
       "name": "luci-app-vantage",
-      "note": "[APK / IPK] RTWRT❌VANTAGE Live Dashboard & Theme",
-      "format": "apk,ipk",
+      "version": "1.0.9-r1",
+      "category": "Themes & UI",
+      "description": "Vantage Live Network Dashboard & Experience Monitor (Landing page with real-time station metrics & topology)",
       "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/apk-luci-app-vantage/luci-app-vantage-1.0.9-r1.apk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/RTWRT%E2%9D%8CVANTAGE/luci-app-vantage_1.0.3-r1_all.ipk"
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/RTWRT%E2%9D%8CVANTAGE/luci-app-vantage_1.0.3-r1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Vantage Next-Gen Live Dashboard & Experience Monitor"
     },
     {
       "name": "luci-theme-moci",
-      "note": "[IPK] MoCI Dark Neon Console Theme for LuCI",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-moci/luci-theme-moci_1.0.0-1_all.ipk"
-    },
-    {
-      "name": "luci-app-wol",
-      "note": "[IPK] Wake on LAN (Web UI + etherwake)",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol_26.081.63927~e56e710_all.ipk"
-    },
-    {
-      "name": "luci-app-nlbwmon",
-      "note": "[IPK] Bandwidth & Traffic Monitor (All-in-One)",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk"
-    },
-    {
-      "name": "kmod-aw1000-fxs",
-      "note": "[IPK] AW1000 FXS SLIC Kernel Module",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk"
-    },
-    {
-      "name": "fxsd",
-      "note": "[IPK] RJ11 Phone Port Service & Patch",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd_0.3.0-r1_aarch64_cortex-a53.ipk"
-    },
-    {
-      "name": "luci-app-fxs",
-      "note": "[IPK] Phone (RJ11) LuCI Web GUI",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs_0.3.0-r1_all.ipk"
-    },
-    {
-      "name": "luci-app-passwall2",
-      "note": "[IPK] PassWall 2",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2_26.3.5-r1_all.ipk"
-    },
-    {
-      "name": "luci-app-passwall",
-      "note": "[IPK] PassWall",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall/luci-app-passwall_26.3.6-r1_all.ipk"
-    },
-    {
-      "name": "luci-app-rtwrt-ads",
-      "note": "[IPK] RTWRT ADS",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-ads/luci-app-rtwrt-ads_1.1.0-1_all.ipk"
-    },
-    {
-      "name": "luci-app-rtwrt-led",
-      "note": "[IPK] RTWRT LED",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-led/luci-app-rtwrt-led_1.0.0-1_all.ipk"
+      "version": "1.0.0-r1",
+      "category": "Themes & UI",
+      "description": "MoCI Cyber-Obsidian Theme, Animated Overview with Flags & Termius SSH Terminal for RTWRT",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-moci/luci-theme-moci-1.0.0-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-moci/luci-theme-moci_1.0.0-1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] MoCI Cyber-Obsidian Theme with Flags & Termius SSH Terminal"
     },
     {
       "name": "luci-theme-fui",
-      "note": "[IPK] FUI theme",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-fui/luci-theme-fui_1.0.0-1_all.ipk"
+      "version": "1.0.0-r1",
+      "category": "Themes & UI",
+      "description": "FUI (Fantasy User Interface HUD) Cyberpunk Theme for OpenWrt LuCI with real-time telemetry and dark mode",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-fui/luci-theme-fui-1.0.0-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-theme-fui/luci-theme-fui_1.0.0-1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] FUI Cyberpunk HUD Dark Theme for OpenWrt LuCI"
+    },
+    {
+      "name": "luci-app-rtwrt-led",
+      "version": "1.0.0-r1",
+      "category": "System & Control",
+      "description": "RGB & LED Lighting Controller for Arcadyan AW1000 with Dedicated Cyberpunk UI, automated SMS & internet alerts",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-led/luci-app-rtwrt-led-1.0.0-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-led/luci-app-rtwrt-led_1.0.0-1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] RGB & LED Lighting Controller with Dedicated Cyberpunk UI"
+    },
+    {
+      "name": "luci-app-rtwrt-ads",
+      "version": "1.1.0-r1",
+      "category": "Network & Security",
+      "description": "RTWRT ADS Ad-Blocking System - Full Audio/Voice, Video, In-App & Telemetry Sinkhole Engine",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-ads/luci-app-rtwrt-ads-1.1.0-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-rtwrt-ads/luci-app-rtwrt-ads_1.1.0-1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] RTWRT ADS Ad-Blocking Sinkhole Engine (v1.1.0)"
+    },
+    {
+      "name": "luci-app-wol",
+      "version": "26.288.56989",
+      "category": "Network & Services",
+      "description": "Wake on LAN management interface for waking sleeping workstations and network appliances",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol-26.288.56989.75a306d.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-wol/luci-app-wol_26.081.63927.e56e710_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Wake on LAN Web GUI Management Utility"
+    },
+    {
+      "name": "luci-app-nlbwmon",
+      "version": "26.288.56989",
+      "category": "Monitoring & Stats",
+      "description": "Netlink Bandwidth Monitor Web Interface - Per-host live usage, bandwidth metrics and charts",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon-26.288.56989.75a306d.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-nlbwmon/luci-app-nlbwmon_2024.02.21-1_aarch64_cortex-a53.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Netlink Bandwidth Monitor Web Interface"
+    },
+    {
+      "name": "kmod-aw1000-fxs",
+      "version": "6.12.94.0.2.0-r1",
+      "category": "Telephony & FXS",
+      "description": "Kernel module for the Si32261 SLIC phone interface on Arcadyan AW1000",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs-6.12.94.0.2.0-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-kmod-aw1000-fxs/kmod-aw1000-fxs_6.12.112.0.1.0-r1_aarch64_cortex-a53.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Kernel module for Arcadyan AW1000 RJ11 FXS port (Si32261)"
+    },
+    {
+      "name": "fxsd",
+      "version": "0.4.1-r1",
+      "category": "Telephony & FXS",
+      "description": "Service daemon running the RJ11 phone port: SLIC bring-up, dial tone, ringing, DTMF dialing, and AT-Daemon bridge",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd-0.4.1-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-fxsd/fxsd_0.3.0-r1_aarch64_cortex-a53.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Phone Port Service Daemon (SLIC, Dial Tone, DTMF, AT-Daemon)"
+    },
+    {
+      "name": "luci-app-fxs",
+      "version": "0.4.1-r1",
+      "category": "Telephony & FXS",
+      "description": "LuCI web administration page for Arcadyan AW1000 RJ11 phone port status, configuration & call controls",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs-0.4.1-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-fxs/luci-app-fxs_0.3.0-r1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] LuCI Web GUI for Arcadyan AW1000 RJ11 Phone Port"
+    },
+    {
+      "name": "luci-app-passwall2",
+      "version": "26.10.20-r1",
+      "category": "VPN & Proxy",
+      "description": "PassWall 2 Web UI for OpenWrt Routing Rules & Proxy Client",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2-26.10.20-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall2/luci-app-passwall2_26.3.5-r1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] PassWall 2 Web UI for OpenWrt Routing Rules & Proxy Client"
+    },
+    {
+      "name": "luci-app-passwall",
+      "version": "26.10.22-r2",
+      "category": "VPN & Proxy",
+      "description": "PassWall Web UI for OpenWrt Routing Rules & Proxy Client",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall/25.12+_luci-app-passwall-26.10.22-r2.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-luci-app-passwall/luci-app-passwall_26.3.6-r1_all.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] PassWall Web UI for OpenWrt Routing Rules & Proxy Client"
     },
     {
       "name": "xray-core",
-      "note": "[IPK] Xray core",
-      "format": "ipk",
-      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-xray-core/xray-core_26.10.17-r1_aarch64_cortex-a53.ipk"
+      "version": "26.3.27-r1",
+      "category": "VPN & Proxy",
+      "description": "Xray Core - High-performance proxy core and privacy network protocol engine",
+      "apk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-xray-core/xray-core-26.3.27-r1.apk",
+      "ipk_url": "https://github.com/richee-bot/rtwrt-aw1000-firmware/releases/download/ipk-xray-core/xray-core_26.10.17-r1_aarch64_cortex-a53.ipk",
+      "format": "apk,ipk",
+      "note": "[APK / IPK] Xray Core VPN & Proxy Engine"
     }
-  ],
-  "updated": "2026-10-28"
+  ]
 }
