@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "800c8743-61d",
+      "ts": 1793361236059,
+      "type": "download_app",
+      "user": "RiduanWan",
+      "summary": "Wants APP 2.0.0 (app-2.0.0)",
+      "device": "Xiaomi 25057RN09G",
+      "app": "1.12.1",
+      "host": "192.168.1.1",
+      "read": false,
+      "extra": {
+        "kind": "app",
+        "app_ver": "2.0.0",
+        "app_tag": "app-2.0.0",
+        "fw_ver": "v5.1",
+        "wants": "app 2.0.0"
+      }
+    },
+    {
       "id": "cf07b7e4-12d",
       "ts": 1793074482433,
       "type": "download_app",
@@ -1854,21 +1872,7 @@
       "extra": {
         "power": ""
       }
-    },
-    {
-      "id": "022ce91f-e6c",
-      "ts": 1791072501936,
-      "type": "health",
-      "user": "Kert_koben",
-      "summary": "health: OFFLINE Â· Hostname unreachable â on home WiâFi? (need BETA-v3 CGI)",
-      "device": "HONOR MTN-NX1",
-      "app": "1.12.0",
-      "host": "192.168.1.1",
-      "read": false,
-      "extra": {
-        "power": ""
-      }
     }
   ],
-  "updated": 1793178133672
+  "updated": 1793361236633
 }
